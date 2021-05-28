@@ -1,0 +1,9 @@
+- 判雷
+- 优化
+  - [操作方法及套路](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%E5%8F%8A%E5%A5%97%E8%B7%AF)
+  - [【教程】伪FL流奥义](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E4%BC%AAFL%E6%B5%81%E5%A5%A5%E4%B9%89-%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%AD%EF%BC%89)
+  - [【教程】手机扫雷进阶心得（基于扫雷联萌设定）](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E6%89%8B%E6%9C%BA%E6%89%AB%E9%9B%B7%E8%BF%9B%E9%98%B6%E5%BF%83%E5%BE%97%EF%BC%88%E5%9F%BA%E4%BA%8E%E6%89%AB%E9%9B%B7%E8%81%94%E8%90%8C%E8%AE%BE%E5%AE%9A%EF%BC%89)
+- [扫雷数据解析](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E6%89%AB%E9%9B%B7%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90)
+  - [JSD大表使用说明](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/JSD%E5%A4%A7%E8%A1%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+  - [快乐群机器人使用示例](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E5%BF%AB%E4%B9%90%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B)
+  - [暴怒群机器人使用示例](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E6%9A%B4%E6%80%92%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B)
