@@ -7,6 +7,6 @@
   - [JSD大表使用说明](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/JSD%E5%A4%A7%E8%A1%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
   - [快乐群机器人使用示例](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E5%BF%AB%E4%B9%90%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B)
   - [暴怒群机器人使用示例](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E6%9A%B4%E6%80%92%E7%BE%A4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B)
-- 社区
+- 应用和社区
   - [重要的平台、应用、社区简介](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E9%87%8D%E8%A6%81%E7%9A%84%E5%B9%B3%E5%8F%B0%E3%80%81%E5%BA%94%E7%94%A8%E3%80%81%E7%A4%BE%E5%8C%BA%E7%AE%80%E4%BB%8B)
   - [聚会帖索引](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E8%81%9A%E4%BC%9A%E5%B8%96%E7%B4%A2%E5%BC%95)
