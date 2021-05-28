@@ -53,4 +53,6 @@ NF的劣势：
 
 # 伪FL代表作解析
 
-[鞠泽恩高级34.25s(3bv=168)3bv/s=4.91](http://saolei.wang/Video/Show.asp?Id=197324)
+电脑 [鞠泽恩高级34.25s(3bv=168)3bv/s=4.91](http://saolei.wang/Video/Show.asp?Id=197324)
+
+手机 [鞠泽恩高级37.151s(3bv=153)3bv/s=4.118 $ms177994](http://tapsss.com/?post=207175)
