@@ -32,6 +32,11 @@ NF转FL需要先拆分NF操作，然后把操作替换成FL操作。克服NF习�
 
 ![](https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Road-of-Minesweeper/标一开二1.png)
 
+遇到二连击时标远端雷有时还可以有意想不到的效果。
+
+![](https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Road-of-Minesweeper/标一开四3.png)
+
+
 ## 减法三连击转标一开二
 实际上就是跳判，但是替换思路和直线二连击转标一开二的思路类似，都是往前多想一步。
 
