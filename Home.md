@@ -1,6 +1,6 @@
 Welcome to the Minesweeper-makes-me-happy wiki!
 
-test
+test again
 
 ## 关于贡献
 
