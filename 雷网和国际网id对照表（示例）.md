@@ -2,6 +2,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 18290 | **鞠**泽恩 | 上海 | 7872 | <img width=40/>Ze-En **JU**<img width=40/> | Shanghai | sub30 |
 | 8356 | **郭**蔚嘉 | 山东 | 4425 | Wei-Jia **GUO** | Shandong | sub35 |
+| 21318 | **刘**关明轩 | 河南 | 8479 | Guanmingxuan **LIU** | Henan | sub90 |
 
 
 
