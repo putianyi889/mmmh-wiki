@@ -57,6 +57,9 @@ Date: 2021-05-28
 
 <div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N-result.gif" width = 30% height = 30% /> </div>
 
+## 双线
+
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL.png" width = 30% height = 30% /> </div>
 
 # 伪FL代表作解析
 
