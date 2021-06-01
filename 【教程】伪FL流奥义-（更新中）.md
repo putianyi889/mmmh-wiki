@@ -61,6 +61,8 @@ Date: 2021-05-28
 
 <div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL.png" width = 30% height = 30% /> </div>
 
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL-result.gif" width = 30% height = 30% /> </div>
+
 # 伪FL代表作解析
 
 ## 电脑 [鞠泽恩高级34.25s(3bv=168)3bv/s=4.91](http://saolei.wang/Video/Show.asp?Id=197324)
