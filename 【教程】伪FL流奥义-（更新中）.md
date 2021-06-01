@@ -53,15 +53,19 @@ Date: 2021-05-28
 
 ## 外侧绕圈破空
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N.png" width = 30% height = 30% /> </div>
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N.png" width = 40% height = 40% /> </div>
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N-result.gif" width = 30% height = 30% /> </div>
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N-result.gif" width = 40% height = 40% /> </div>
 
 ## 双线
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL.png" width = 30% height = 30% /> </div>
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL.png" width = 40% height = 40% /> </div>
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL-result.gif" width = 30% height = 30% /> </div>
+绿色三格从左到右NF三连击，随后顺手在c-d接一个标双打开efg三格，然后由于b是1补一次双击，f再补一个双击，再回到h补双击。后续仍然由NF完成。通过NF接FL双线，有效平衡了视野与操作，完美利用了两侧局部对新信息的反应时间，没有废操作。
+
+周丹式伪FL在此局部的经典操作是：先点击a-b，然后标双c-d直接连f，后续再连双击bh。a-d的连续操作名为**隔空标雷**，虽然节省b位1次点击，但也使得**b位的信息晚一步才暴露**（手机上c位标雷可以换算成2次点击时间，b位信息要晚两步才暴露），后续的双击不得不依靠试探双击f位来抹平b位判断时间，或者卡顿一下判出b才能继续进行，失去了双线的妙味。这可能也是周丹未能开发出鞠泽恩式双线的原因之一。因此个人对隔空标雷技术的态度是**不推荐采用**。
+
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL-result.gif" width = 40% height = 40% /> </div>
 
 # 伪FL代表作解析
 
