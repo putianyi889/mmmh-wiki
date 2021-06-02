@@ -51,21 +51,34 @@ Date: 2021-05-28
 
 ## 两边利用
 
-## 外侧绕圈破空
+# FL操作实例分析与探讨
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N.png" width = 40% height = 40% /> </div>
-
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N-result.gif" width = 40% height = 40% /> </div>
 
 ## 双线
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL.png" width = 40% height = 40% /> </div>
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL.png" width = 40% height = 40% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL-result.gif" width = 40% height = 40% /> </div>
 
-绿色三格从左到右NF三连击，随后顺手在c-d接一个标双打开efg三格，然后由于b是1补一次双击，f再补一个双击，再回到h补双击。后续仍然由NF完成。通过NF接FL双线，有效平衡了视野与操作，完美利用了两侧局部对新信息的反应时间，没有废操作。
+鞠泽恩式双线伪FL操作：从左到右NF三连击绿色三格，随后顺手在c-d接一个标双打开efg三格，然后由于b是1补一次双击，f再补一个双击，再回到h补双击。后续仍然由NF完成。通过NF接FL双线，有效平衡了视野与操作，完美利用了两侧局部对新信息的反应时间，没有废操作。
 
-周丹式伪FL在此局部的经典操作是：先点击a-b，然后标双c-d直接连f，后续再连双击bh。a-d的连续操作名为**隔空标雷**，虽然节省b位1次点击，但也使得**b位的信息晚一步才暴露**（手机上c位标雷可以换算成2次点击时间，b位信息要晚两步才暴露），后续的双击不得不依靠试探双击f位来抹平b位判断时间，或者卡顿一下判出b才能继续进行，失去了双线的妙味。这可能也是周丹未能开发出鞠泽恩式双线的原因之一。因此个人对隔空标雷技术的态度是**不推荐采用**。
+周丹式伪FL操作：先左键点击a，然后标双c-d直接连f，后续再连双击bh。a-d的连续操作名为**隔空标雷**，虽然节省b位1次点击，但也使得**b位的信息晚一步才暴露**（手机上c位标雷可以换算成2次点击时间，b位信息要晚两步才暴露），后续的双击不得不依靠试探双击f位来抹平b位判断时间，或者卡顿一下判出b才能继续进行，失去了双线的妙味。这可能也是周丹未能开发出鞠泽恩式双线的原因之一。
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL-result.gif" width = 40% height = 40% /> </div>
+总结：**隔空标雷技术效率、稳定性均低于双线，不推荐采用**。
+
+## 绕圈双击
+
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N.png" width = 40% height = 40% /> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N-result.gif" width = 40% height = 40% /> </div>
+
+[田溢昉](https://saolei.wang/Player/Index.asp?Id=24)式暴力FL操作：首先标雷a，然后接双击b打开绿色3格，再双击c-d打开浅绿色6格，最后双击e-f打开黄色5格。此过程称为**绕圈双击**，被双击格除了b已知是1，其余c-f四格都需要靠运气才能起作用，在它们恰好都是1的情况下收益最高，在电脑上收益比为`打开格子数/操作数=14/5.5=2.55`（标雷与首次双击按1.5次操作计算），在手机上收益比为`打开格子数/操作数=14/7=2`（标雷按2次操作计算）。在本例中，双击b-c-d-f均遇到1，双击e无效（点在双击c产生的op边缘上），实际打开7格+1个op。常说的**试探双击**技巧，双击位
+
+绕圈双击是上古暴力FL大神田溢昉的独门秘技，是常说的**试探双击**技巧的极端化，b-c-d可以说是安全的试探双击位，而e-f两个位置都是绕圈双击起手时没有信息的格子。绕圈双击的优点是在1特别密集的局部能产生恐怖的爆发力（田溢昉中级3bv/s纪录5.83），缺点是过于依赖1，在烂图容易卡顿，且手机上盲目双击可能点到雷。
+
+效率流对绕圈双击的一个小改进是：**标雷a双击b**后，由于双击d可以直接打开5个新格子，而双击c只能打开3个新格子，两者重叠覆盖的格子有2个，故**先双击d**可以使得更多的格子先暴露，再在**补双击c（效率等价于NF）**的同时判断前述5格带来的信息，**最后补双击f-e**。效率流的双击位置思路来源于对IOE理论最高值的探索，结论是双击雷横竖左右四个方向邻接格效率最高。
+
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N-to-Double-Thread-FL.png" width = 40% height = 40% /> </div>
+
+我们看看鞠泽恩式双线伪FL在此局部的扫法：NF二连击a-b绿色格，随后顺手在c-d接一个标双打开浅绿色格（此时判出绿色格），然后双击b（此时判出e与e上面一格），再对e补一个双击（此时判出b右侧是否是1），最后对b右侧格补双击（如b右侧是1，不是则不补）。仅讨论确定的部分，省略最后一次双击，与绕圈双击同样的操作数，不仅规避了1的不确定性，同时避免了卡顿和踩雷，代价仅仅是少覆盖了2格，而这可以根据后续情况用1次双击即可覆盖。
+
+总结：**绕圈双击技术稳定性远低于双线，在最适宜采用的局部中效率也没有明显提升，不推荐采用；试探双击的稳定性低于双线，仅推荐局部收尾（附近没有其他可解局部）时采用，①在首次双击格与雷横竖相邻的情况下，最多双击2次，第2次点击方向(d)与第1次(b)相对于雷(a)垂直，如第2次点击不成功则在其他操作时判断c位能否补双击，②在首次双击格与雷斜向相邻的情况下，最多双击2次，在其他操作时优先判断对与雷横竖相邻的格是否需要补双击**。
 
 # 伪FL代表作解析
 
