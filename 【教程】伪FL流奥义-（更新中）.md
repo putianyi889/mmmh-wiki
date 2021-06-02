@@ -68,7 +68,7 @@ Date: 2021-05-28
 
 <div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N.png" width = 40% height = 40% /> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N-result.gif" width = 40% height = 40% /> </div>
 
-[田溢昉](https://saolei.wang/Player/Index.asp?Id=24)式暴力FL操作：首先标雷a，然后接双击b打开绿色3格，再双击c-d打开浅绿色6格，最后双击e-f打开黄色5格。此过程称为**绕圈双击**，被双击格除了b已知是1，其余c-f四格都需要靠运气才能起作用，在它们恰好都是1的情况下收益最高，在电脑上收益比为`打开格子数/操作数=14/5.5=2.55`（标雷与首次双击按1.5次操作计算），在手机上收益比为`打开格子数/操作数=14/7=2`（标雷按2次操作计算）。在本例中，双击b-c-d-f均遇到1，双击e无效（点在双击c产生的op边缘上），实际打开7格+1个op。常说的**试探双击**技巧，双击位
+[田溢昉](https://saolei.wang/Player/Index.asp?Id=24)式暴力FL操作：首先标雷a，然后接双击b打开绿色3格，再双击c-d打开浅绿色6格，最后双击e-f打开黄色5格。此过程称为**绕圈双击**，被双击格除了b已知是1，其余c-f四格都需要靠运气才能起作用，在它们恰好都是1的情况下收益最高，在电脑上收益比为`打开格子数/操作数=14/5.5=2.55`（标雷与首次双击按1.5次操作计算），在手机上收益比为`打开格子数/操作数=14/7=2`（标雷按2次操作计算）。在本例中，双击b-c-d-f均遇到1，双击e无效（点在双击c产生的op边缘上），实际打开7格+1个op。
 
 绕圈双击是上古暴力FL大神田溢昉的独门秘技，是常说的**试探双击**技巧的极端化，b-c-d可以说是安全的试探双击位，而e-f两个位置都是绕圈双击起手时没有信息的格子。绕圈双击的优点是在1特别密集的局部能产生恐怖的爆发力（田溢昉中级3bv/s纪录5.83），缺点是过于依赖1，在烂图容易卡顿，且手机上盲目双击可能点到雷。
 
