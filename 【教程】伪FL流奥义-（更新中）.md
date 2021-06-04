@@ -92,7 +92,7 @@ Date: 2021-05-28
 
 手机上在a-b-c连续双击过程里安全的概率约是80%（可能踩雷的位置只有c，而电脑上无此顾虑）。在概率约63%的理想状态下（c-d都不是雷），手机收益比为`打开格子数/操作数=8/5=1.6`，电脑收益比为`打开格子数/操作数=8/3.5=2.29`；在概率约17%的差一点的情况下（c不是雷，d是雷），手机收益比为`打开格子数/操作数=5/5=1`，电脑收益比为`打开格子数/操作数=5/3.5=1.43`，也不亏；在概率为20%的最差情况下（c是雷），手机gg，电脑收益比为`打开格子数/操作数=2/3.5=0.57`。加权平均的手机收益比（生存情况下）为`(1.6×63%+1×17%+0×20%)/80%=1.17/80%=1.47`，电脑收益比为`2.29×63%+1.43×17%+0.57×20%=1.80`。因此在封闭局部下，无论手机或者电脑，试探双击三次都是有利的，并且效率都比仅双击两次略有提升。
 
-注意：以上分析尚未加入在试探双击过程中判断出其他位置信息的潜在收益，因此实际收益更高。本局部的**最优手段是标连双1次，单击d下面1格，同时判断b是否可以双击，再补双击b（同时根据d下面1格信息判断c是否可以双击）或者改用nf**。
+总结：由于以上分析尚未加入在试探双击过程中判断出其他位置信息的潜在收益，因此实际收益更高。本局部的**最优手段是标连双1次，单击d下面1格，同时判断b是否可以双击，再补双击b（同时根据d下面1格信息判断c是否可以双击）或者改用nf**。
 
 <div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord2.png" width = 40% height = 40% /> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord2-result.gif" width = 40% height = 40% /> </div>
 
@@ -104,7 +104,11 @@ Date: 2021-05-28
 
 仅双击a-b，概率约63%的理想状态下收益比为`打开格子数/操作数=4/2=2`；而概率约37%的其他状态下收益比为`打开格子数/操作数=2/2=1`，不亏。加权平均的收益比为`2×63%+1×37%=1.63`。
 
+
+
 <div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord3.png" width = 40% height = 40% /> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord3-result.gif" width = 40% height = 40% /> </div>
+
+
 
 # 伪FL代表作解析
 
