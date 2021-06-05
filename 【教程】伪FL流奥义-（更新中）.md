@@ -54,7 +54,7 @@ Date: 2021-05-28
 # FL操作实例分析与探讨
 
 
-## 双线
+## 隔空标雷 vs 双线
 
 <div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL.png" width = 40% height = 40% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/NF-plus-Double-Thread-FL-result.gif" width = 40% height = 40% /> </div>
 
@@ -62,9 +62,13 @@ Date: 2021-05-28
 
 周丹式伪FL操作：先左键点击a，然后标双c-d直接连f，后续再连双击bh。a-d的连续操作名为**隔空标雷**，虽然节省b位1次点击，但也使得**b位的信息晚一步才暴露**（手机上c位标雷可以换算成2次点击时间，b位信息要晚两步才暴露），后续的双击不得不依靠试探双击f位来抹平b位判断时间，或者卡顿一下判出b才能继续进行，失去了双线的妙味。这可能也是周丹未能开发出鞠泽恩式双线的原因之一。
 
-总结：**隔空标雷技术效率、稳定性均低于双线，不推荐采用**。
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Jump-Flag-Best.png" width = 40% height = 40% /> </div>
 
-## 绕圈双击
+隔空标雷并非除了好看一无是处，没有双线潜力的时候仍然是最有效的：当雷处于内侧，黄色指针按下位置无法提供更多信息的情况下，可以先点击靠雷墙的3之后选择标双红色雷以及绿底的1，形成标1开4的效果。
+
+总结：**隔空标雷技术效率、稳定性均低于双线，不推荐在开阔区域采用，仅适用于封闭区域**。
+
+## 绕圈双击 vs 双线
 
 <div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N.png" width = 40% height = 40% /> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Flag-1-chord-N-result.gif" width = 40% height = 40% /> </div>
 
@@ -80,7 +84,7 @@ Date: 2021-05-28
 
 总结：**绕圈双击技术稳定性远低于双线，在理想状态下效率也没有明显提升，不推荐采用；试探双击的稳定性低于双线，仅推荐局部收尾（附近没有其他可解局部）时采用**。
 
-## 试探双击
+## 试探双击 vs 双线
 
 试探双击是李明炫的必杀技，主要作用是：当你完成一个标双还不知道下一步点哪里的时候，沿着上一次双击的惯性再盲目地双击一下，为下一步判断争取时间的同时争取多开几个格子。第1次双击在电脑上由1.5click技巧完成，耗时按0.5次点击计算，此前的标雷耗时1次点击；第1次双击在手机上由1次点击完成，耗时按1次点击计算，此前的标雷耗时2次点击。第2次点击则主要分为两种情形：①在首次双击格与雷横竖相邻的情况下，第2次点击方向与第1次相对于雷垂直，如第2次点击不成功则在其他操作时判断与雷横竖相邻的格能否补双击，②在首次双击格与雷斜向相邻的情况下，在其他操作时优先判断对与雷横竖相邻的格是否需要补双击。
 
