@@ -88,7 +88,7 @@ Date: 2021-05-28
 
 试探双击是李明炫的必杀技，主要作用是：当你完成一个标双还不知道下一步点哪里的时候，沿着上一次双击的惯性再盲目地双击一下，为下一步判断争取时间的同时争取多开几个格子。第1次双击在电脑上由1.5click技巧完成，耗时按0.5次点击计算，此前的标雷耗时1次点击；第1次双击在手机上由1次点击完成，耗时按1次点击计算，此前的标雷耗时2次点击。第2次点击则主要分为两种情形：①在首次双击格与雷横竖相邻的情况下，第2次点击方向与第1次相对于雷垂直，如第2次点击不成功则在其他操作时判断与雷横竖相邻的格能否补双击，②在首次双击格与雷斜向相邻的情况下，在其他操作时优先判断对与雷横竖相邻的格是否需要补双击。
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord.png" width = 40% height = 40% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord-result.gif" width = 40% height = 40% /> </div>
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Prechord.png" width = 40% height = 40% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Prechord-result.gif" width = 40% height = 40% /> </div>
 
 这是试探双击的一种极端用法，待解决局部被四面包围，其中绿色格安全，黄色格c-d无法判定是否是雷。由于高级雷密度为20.625%，c为雷的概率约为20.6%，c-d均没有雷的概率就是(1-20.625%)^2=63%。手机上，a-b都是安全的双击位，c有踩雷的风险；电脑上，a-b-c都是安全的双击位。
 
@@ -100,7 +100,7 @@ Date: 2021-05-28
 
 小结：**在封闭局部且首次双击格与雷斜向相邻时，无论手机或者电脑，试探双击三次都是有利的**，并且效率都比仅双击两次略有提升，但手机上有20%概率gg。本局部的**最优手段是标连双2次，单击d下面1格，同时判断c是否可以双击，再补双击c或者改用nf**。
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord1.png" width = 30% height = 30% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord1-result.gif" width = 30% height = 30% /> </div>
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Prechord1.png" width = 30% height = 30% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Prechord1-result.gif" width = 30% height = 30% /> </div>
 
 半封闭局部：由于李明炫已经点出一个2，确定了浅绿格无雷，本局部的风险性进一步降低，仅剩两个黄格不确定，如果事先标双了下方的标1开4，两黄格也变为确定格，就变成上述的封闭局部。因此本局部也采用了试探双击的极端用法，标雷后连双击a-b-c。由于都是在双击b-c时会各碰到一个未定格，故概率分析与封闭局部相似：
 
@@ -122,7 +122,7 @@ Date: 2021-05-28
 
 小结：**在半封闭局部且首次双击格与雷斜向相邻时，无论手机或者电脑，试探双击三次都是有利的**，但手机上有20.6%概率gg。在首次双击格与雷斜向相邻且只能双击出5格时，手机上试探双击两次是亏损的，但电脑上可以这么选择。**没有必要为了额外的信息量多点一格**。
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord2.png" width = 40% height = 40% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord2-result.gif" width = 40% height = 40% /> </div>
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Prechord2.png" width = 40% height = 40% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Prechord2-result.gif" width = 40% height = 40% /> </div>
 
 开放式且有已标雷可用局部：这是试探双击的一种正常用法，利用已标雷连续双击a-b，同时判断下方最优路线。下方NF过程（1-2）同时判出上方c位可以补双击，在下方解决到与上方平齐时（3-8）再补9位，然后再破空10-13。**下方的路线是根据深度优先原则制定的，每一步都要求获取右侧最大信息量**，通过每个格获取到的新信息已用绿线标注在图中。
 
@@ -136,11 +136,11 @@ Date: 2021-05-28
 
 小结：**在开放局部存在已标雷且首次双击格与雷斜向相邻时，无论手机或者电脑，双击一次，或者试探双击两次再补双击都是有利的**；连双击三次在手机和电脑上仍然有利，但手机上有20.6%概率gg，电脑上效率下降严重，稳定性不如前者，仅推荐在缺少可解局部的情况下采用。
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord4.png" width = 40% height = 40% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord4-result.gif" width = 40% height = 40% /> </div>
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Prechord3.png" width = 40% height = 40% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Prechord3-result.gif" width = 40% height = 40% /> </div>
 
 开放式局部：
 
-<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord3.png" width = 40% height = 40% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Tentative-Chord3-result.gif" width = 40% height = 40% /> </div>
+<div align="center"> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Prechord4.png" width = 40% height = 40% /> <img width=10/> <img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/Key-of-Fake-FL/Prechord4-result.gif" width = 40% height = 40% /> </div>
 
 
 
