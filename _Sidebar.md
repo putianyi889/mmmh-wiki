@@ -1,6 +1,7 @@
 [Home](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/Home)
 - 判雷
 - 优化
+  - [扫法概述](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/扫法概述)
   - [操作方法及套路](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%E5%8F%8A%E5%A5%97%E8%B7%AF)
   - [NF转FL的等价替换思路](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/NF转FL的等价替换思路)
   - [【教程】手机扫雷进阶心得（基于扫雷联萌设定）](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E6%89%8B%E6%9C%BA%E6%89%AB%E9%9B%B7%E8%BF%9B%E9%98%B6%E5%BF%83%E5%BE%97%EF%BC%88%E5%9F%BA%E4%BA%8E%E6%89%AB%E9%9B%B7%E8%81%94%E8%90%8C%E8%AE%BE%E5%AE%9A%EF%BC%89)
