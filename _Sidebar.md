@@ -16,3 +16,4 @@
   - [聚会帖索引](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E8%81%9A%E4%BC%9A%E5%B8%96%E7%B4%A2%E5%BC%95)
 - 历史
   - [3BV的历史](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/3BV的历史)
+  - [IMC](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/IMC)
