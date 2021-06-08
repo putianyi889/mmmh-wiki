@@ -13,7 +13,7 @@
   - [扫雷图的结构以及影响难度的因素分析](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E6%89%AB%E9%9B%B7%E5%9B%BE%E7%9A%84%E7%BB%93%E6%9E%84%E4%BB%A5%E5%8F%8A%E5%BD%B1%E5%93%8D%E9%9A%BE%E5%BA%A6%E7%9A%84%E5%9B%A0%E7%B4%A0%E5%88%86%E6%9E%90)
 - 应用和社区
   - [重要的平台、应用、社区简介](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E9%87%8D%E8%A6%81%E7%9A%84%E5%B9%B3%E5%8F%B0%E3%80%81%E5%BA%94%E7%94%A8%E3%80%81%E7%A4%BE%E5%8C%BA%E7%AE%80%E4%BB%8B)
-  - [聚会帖索引](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E8%81%9A%E4%BC%9A%E5%B8%96%E7%B4%A2%E5%BC%95)
 - 历史
   - [3BV的历史](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/3BV的历史)
   - [IMC](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/IMC)
+  - [聚会帖索引](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E8%81%9A%E4%BC%9A%E5%B8%96%E7%B4%A2%E5%BC%95)
