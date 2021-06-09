@@ -19,3 +19,4 @@
   - [聚会帖索引](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E8%81%9A%E4%BC%9A%E5%B8%96%E7%B4%A2%E5%BC%95)
   - 自传
     - [Dion Tiu](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/Dion-Tiu自传)
+    - [郭蔚嘉](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/郭蔚嘉自传)
