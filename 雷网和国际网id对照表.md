@@ -9,12 +9,12 @@ Title: Look-up Table of Player's Accounts Across Multiple Platforms
 
 ## sub30 Level
 
-| 姓名<br>Name | 国际网ID<br>msg ID | 省<br>Region | 雷网ID<br>saolei ID | 联萌ID<br>LoM ID | WoM ID | QQ | 生日<br>Birthday | 社交网站<br>Communication |
+| 姓名<br>Name | 国际网ID<br>msg ID | 省<br>Region | 雷网ID<br>saolei ID | 联萌ID<br>LoM ID | WoM ID | QQ | 生日<br>Birthdate | 社交网站<br>Communication |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **鞠**泽恩<br>Ze-En **JU** | [7872](https://minesweepergame.com/profile.php?pid=7872) | 上海<br>Shanghai | [18290](http://saolei.wang/Player/Index.asp?Id=18290) | 27898<br>42000 | [1782682](https://minesweeper.online/player/1782682) | 519946497 | 2008-02-15 | [bilibili](https://space.bilibili.com/286760491) |
 ## sub35 Level
 
-| 姓名<br>Name | 国际网ID<br>msg ID | 省<br>Region | 雷网ID<br>saolei ID | 联萌ID<br>LoM ID | WoM ID | QQ | 生日<br>Birthday | 社交网站<br>Communication |
+| 姓名<br>Name | 国际网ID<br>msg ID | 省<br>Region | 雷网ID<br>saolei ID | 联萌ID<br>LoM ID | WoM ID | QQ | 生日<br>Birthdate | 社交网站<br>Communication |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **郭**蔚嘉<br>Wei-Jia **GUO** | [4425](https://minesweepergame.com/profile.php?pid=4425) | 山东<br>Shandong | [8356](http://saolei.wang/Player/Index.asp?Id=8356) | 35974 | - | 81811768 | 1997-03-15 | - |
 | **张**先耀<br>	Xian-Yao **ZHANG** | [4485](https://minesweepergame.com/profile.php?pid=4485) | 山东<br>Shandong | [10638](http://saolei.wang/Player/Index.asp?Id=10638) | 58313 | [843734](https://minesweeper.online/player/843734) | 564248274<br>285209857 | 1995-04-22 | - |
@@ -23,14 +23,14 @@ Title: Look-up Table of Player's Accounts Across Multiple Platforms
 
 ## sub45 Level
 
-| 姓名<br>Name | 国际网ID<br>msg ID | 省<br>Region | 雷网ID<br>saolei ID | 联萌ID<br>LoM ID | WoM ID | QQ | 生日<br>Birthday | 社交网站<br>Communication |
+| 姓名<br>Name | 国际网ID<br>msg ID | 省<br>Region | 雷网ID<br>saolei ID | 联萌ID<br>LoM ID | WoM ID | QQ | 生日<br>Birthdate | 社交网站<br>Communication |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **孙**凯<br>Kai **SUN** | [4426](https://minesweepergame.com/profile.php?pid=4426) | 山东<br>Shandong | [6404](http://saolei.wang/Player/Index.asp?Id=6404) | 53329 | [935510](https://minesweeper.online/player/935510) | 1297520564 | 1993-10-05 | - |
 | **饶**思源<br>Si-Yuan **RAO** | [5981](https://minesweepergame.com/profile.php?pid=5981) | 湖北<br>Hubei | [12817](http://saolei.wang/Player/Index.asp?Id=12817) | - | [1770055](https://minesweeper.online/player/1770055) | 460711471 | 1998-12-19 | - |
 
 ## sub90 Level
 
-| 姓名<br>Name | 国际网<br>msg ID | 省<br>Region | 雷网<br>saolei ID | 联萌<br>LoM ID | WoM ID | QQ | 生日<br>Birthday | 社交网站<br>Communication |
+| 姓名<br>Name | 国际网<br>msg ID | 省<br>Region | 雷网<br>saolei ID | 联萌<br>LoM ID | WoM ID | QQ | 生日<br>Birthdate | 社交网站<br>Communication |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **刘**关明轩<br>Guanmingxuan **LIU** | [8479](https://minesweepergame.com/profile.php?pid=8479) | 河南<br>Henan | [21318](http://saolei.wang/Player/Index.asp?Id=21318) | - | - | - | - | - |
 
