@@ -19,7 +19,7 @@ Title: Look-up Table of Player's Accounts Across Multiple Platforms
 | **郭**蔚嘉<br>Wei-Jia **GUO** | [4425](https://minesweepergame.com/profile.php?pid=4425) | 山东<br>Shandong | [8356](http://saolei.wang/Player/Index.asp?Id=8356) | 35974 | - | 81811768 | 1997-03-15 | - |
 | **张**先耀<br>	Xian-Yao **ZHANG** | [4485](https://minesweepergame.com/profile.php?pid=4485) | 山东<br>Shandong | [10638](http://saolei.wang/Player/Index.asp?Id=10638) | 58313 | [843734](https://minesweeper.online/player/843734) | 564248274<br>285209857 | 1995-04-22 | - |
 | **周**丹<br>	Dan **ZHOU** | [4222](https://minesweepergame.com/profile.php?pid=4222) | 江西<br>Jiangxi | [4843](http://saolei.wang/Player/Index.asp?Id=4843) | - | - | 597442270 | 1991-08-08 | [bilibili](https://space.bilibili.com/930125)<br>[weibo](https://weibo.com/518837345) |
-| **朱**耀宇<br>	Yao-Yu **ZHU** | [6820](https://minesweepergame.com/profile.php?pid=6820) | 江苏<br>Jiangsu | [14433](http://saolei.wang/Player/Index.asp?Id=14433) | - | [2179773](https://minesweeper.online/player/2179773) | 2337479161 | - | - |
+| **朱**耀宇<br>	Yao-Yu **ZHU** | [6820](https://minesweepergame.com/profile.php?pid=6820) | 江苏<br>Jiangsu | [14433](http://saolei.wang/Player/Index.asp?Id=14433) | - | [2179773](https://minesweeper.online/player/2179773) | 2337479161 | 1997- | - |
 
 ## sub45 Level
 
