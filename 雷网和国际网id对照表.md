@@ -5,9 +5,10 @@ Title: Look-up Table of Player's Accounts Across Multiple Platforms
 - LoM: [扫雷联萌 League of Minesweeper](http://tapsss.com/)
 - WoM: [World of Minesweeper](https://minesweeper.online/)
 
-中国玩家数据收集自国际网及扫雷网公开信息。
-
 # 中国玩家 Chinese players
+
+**中国玩家数据收集自[国际网](https://minesweepergame.com/)及[扫雷网](http://saolei.wang/)公开信息。<br>**
+**All data of Chinese players are collected from open information on [Authoritative Minesweeper](https://minesweepergame.com/) and [saolei.wang](http://saolei.wang/).**
 
 ## sub30 Level
 
