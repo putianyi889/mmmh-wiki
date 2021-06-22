@@ -1,4 +1,4 @@
-## 文件名：`ArbiterStatsAuto39.9F.xlsm`，下文简称为“大表”。
+## 文件名：`ArbiterStatsAuto版本号F.xlsm`，下文简称为“大表”。
 
 ___
 ## 开始使用
@@ -7,25 +7,29 @@ ___
 将大表和csv放到同一目录下，打开大表。第一次打开大表需要[启用宏](https://support.microsoft.com/zh-cn/topic/%E5%90%AF%E7%94%A8%E6%88%96%E7%A6%81%E7%94%A8-office-%E6%96%87%E4%BB%B6%E4%B8%AD%E7%9A%84%E5%AE%8F-12b036fd-d140-4e74-b45e-16fed1a7e5c6)。选择[功能区](https://www.office26.com/excel/excel-ribbon-ui.html)中的`JSD`选项卡，这里就有大表提供的全部功能。其中`计算大表`组最重要，其中的命令会读取csv中的所有数据并计算：`盲扫`仅计算NF数据，`飞标`仅计算FL数据，`双修`计算所有数据。其他功能我们会在后文分别介绍。
 
 ___
-## 新版本简写
-“新版本”指40.1及其之后的版本。为了缩短底下的选项卡长度，进行了十分抽象的简写。
-|简写前|简写后|
-|:-:|:-:|
-|Week|W|
-|LSF|Lsf|
-|Mon|M|
-|Qter|Qua|
-|Half|H|
-|Year|Y|
-|Range|R|
-|Num|N|
-|Time|T|
-|Bvs|B|
-|QG|Q|
-|Sao|C|
-|Corr|O|
-|BV|Bv|
-|ASB|A|
+## 选项卡名称修改历史
+40.1版本开始修改选项卡名称。本页中所引用选项卡名称均为40.0及之前版本名称。
+|40.0及之前|40.1|40.2|40.4|
+|:-:|:-:|:-:|:-:|
+|Blast|-|-|B|
+|Week|W|-|-|
+|LSF|Lsf|-|-|
+|Mon|M|-|-|
+|Qter|Qua|-|-|
+|Half|H|-|-|
+|Year|Y|-|-|
+|BEG|Beg|-|-|
+|INT|Int|-|-|
+|EXP|Exp|-|-|
+|Range|R|-|-|
+|Num|N|-|-|
+|Time|T|-|Time|
+|Bvs|B|-|Bvs|
+|QG|Q|-|QG|
+|Sao|C|-|-|
+|Corr|O|-|-|
+|BV|Bv|-|-|
+|ASB|A|G|-|
 ___
 ## 参数说明
 
