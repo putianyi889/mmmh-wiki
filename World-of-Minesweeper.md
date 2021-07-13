@@ -1,5 +1,7 @@
 [World of Minesweeper](https://minesweeper.online/) (WoM) 是一款优秀的网页扫雷游戏。WoM的特色是支持多样化的游戏玩法，主流游戏玩法有十种，通过奖杯衡量。WoM有中文支持，但是是[“机翻”](https://minesweeper.online/player/1919912)，建议尽量还是用英文。
 
+网站功能是非常丰富的，要留意各种边角的小按钮和小字说明，会有意想不到的收获。
+
 # 基本功能
 ## 游戏
 WoM包含经典和无猜两种大模式。经典模式(Standard mode)又分为初级(Beginner)、中级(Intermediate)、高级(Expert)、自定义(Custom)。无猜模式又分为简单(Easy)、中等(Medium)、困难(Hard)、地狱(Evil)、自定义(Custom)。初级和简单对应9x9/10，中级和中等对应16x16/40，高级和困难对应30x16/99，地狱对应30x20/130。
