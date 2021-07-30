@@ -1,6 +1,7 @@
 [Home](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/Home)
 - 判雷
   - [什么是死猜？](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/什么是死猜？)
+  - [猜雷](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/猜雷)
 - 优化
   - [扫法概述](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/扫法概述)
   - [操作方法及套路](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%E5%8F%8A%E5%A5%97%E8%B7%AF)
