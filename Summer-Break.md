@@ -1,5 +1,6 @@
 Summer Break是World of Minesweeper的一个活动。
 
+下表由钟言总结。
 |前缀|颜色对应|玩法|
 |:-|:-|:-:|
 |Mango|Topaz|IOE|
