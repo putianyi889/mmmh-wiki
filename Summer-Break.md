@@ -82,5 +82,7 @@ Summer Break是World of Minesweeper的一个活动。从0:00(GMT)开始，全服
 *表示预测值
 </details>
 
+举例：假设任务等级是L7，则前五奖励分别是70、63、56、49、42。然后从第6到第425名，奖励从35线性递减到7，在这之间第n名奖励的计算方式是`35-(n-5)/(425-5)*(35-7)`，向上取整。从第425名往后奖励一致为7。
+
 # 参考文献
 [1] Scar, [World of Minesweeper Event Guide](https://docs.google.com/document/d/1M1gIyczkiuuTYh10MOISogctZRExkGadijrIg4X_F4Y/edit)
