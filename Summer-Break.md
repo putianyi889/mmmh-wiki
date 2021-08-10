@@ -29,57 +29,209 @@ Summer Break是World of Minesweeper的一个活动。从0:00(GMT)开始，全服
 保底（1倍）奖励的开始名次是固定的，如下表。会员任务的保底名次是活动任务的一半。
 <details>
 <summary>展开内容</summary>
-|等级|保底名次|
-|:-:|-:|
-| 5  | 575  |
-| 6  | 500  |
-| 7  | 425  |
-| 8  | *350  |
-| 9  | 325  |
-| 10 | *300  |
-| 11 | 290  |
-| 12 | 280  |
-| 13 | 270  |
-| 14 | *260  |
-| 15 | 250  |
-| 16 | *240  |
-| 17 | 230  |
-| 18 | 220  |
-| 19 | *210  |
-| 20 | *200  |
-| 21 | *195  |
-| 22 | *190  |
-| 23 | *185  |
-| 24 | *180  |
-| 25 | *175  |
-| 26 | 170  |
-| 27 | 165  |
-| 28 | *160  |
-| 29 | 155  |
-| 30 | 150  |
-| 31 | *148  |
-| 32 | *145  |
-| 33 | *143  |
-| 34 | *140  |
-| 35 | *138  |
-| 36 | *135  |
-| 37 | *133  |
-| 38 | *130  |
-| 39 | 128  |
-| 40 | *125  |
-| 41 | *123  |
-| 42 | 120  |
-| 43 | *118  |
-| 44 | *115  |
-| 45 | *113  |
-| 46 | *110  |
-| 47 | *108  |
-| 48 | 105  |
-| 49 | *103  |
-| 50 | *100  |
-| 57 | 96   |
-| 60 | 94   |
-*表示预测值
+<table>
+<thead>
+<tr>
+<th align="center">等级</th>
+<th align="right">保底名次</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">5</td>
+<td align="right">575</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="right">500</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="right">425</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="right">*350</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="right">325</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="right">*300</td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="right">290</td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td align="right">280</td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td align="right">270</td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td align="right">*260</td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td align="right">250</td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td align="right">*240</td>
+</tr>
+<tr>
+<td align="center">17</td>
+<td align="right">230</td>
+</tr>
+<tr>
+<td align="center">18</td>
+<td align="right">220</td>
+</tr>
+<tr>
+<td align="center">19</td>
+<td align="right">*210</td>
+</tr>
+<tr>
+<td align="center">20</td>
+<td align="right">*200</td>
+</tr>
+<tr>
+<td align="center">21</td>
+<td align="right">*195</td>
+</tr>
+<tr>
+<td align="center">22</td>
+<td align="right">*190</td>
+</tr>
+<tr>
+<td align="center">23</td>
+<td align="right">*185</td>
+</tr>
+<tr>
+<td align="center">24</td>
+<td align="right">*180</td>
+</tr>
+<tr>
+<td align="center">25</td>
+<td align="right">*175</td>
+</tr>
+<tr>
+<td align="center">26</td>
+<td align="right">170</td>
+</tr>
+<tr>
+<td align="center">27</td>
+<td align="right">165</td>
+</tr>
+<tr>
+<td align="center">28</td>
+<td align="right">*160</td>
+</tr>
+<tr>
+<td align="center">29</td>
+<td align="right">155</td>
+</tr>
+<tr>
+<td align="center">30</td>
+<td align="right">150</td>
+</tr>
+<tr>
+<td align="center">31</td>
+<td align="right">*148</td>
+</tr>
+<tr>
+<td align="center">32</td>
+<td align="right">*145</td>
+</tr>
+<tr>
+<td align="center">33</td>
+<td align="right">*143</td>
+</tr>
+<tr>
+<td align="center">34</td>
+<td align="right">*140</td>
+</tr>
+<tr>
+<td align="center">35</td>
+<td align="right">*138</td>
+</tr>
+<tr>
+<td align="center">36</td>
+<td align="right">*135</td>
+</tr>
+<tr>
+<td align="center">37</td>
+<td align="right">*133</td>
+</tr>
+<tr>
+<td align="center">38</td>
+<td align="right">*130</td>
+</tr>
+<tr>
+<td align="center">39</td>
+<td align="right">128</td>
+</tr>
+<tr>
+<td align="center">40</td>
+<td align="right">*125</td>
+</tr>
+<tr>
+<td align="center">41</td>
+<td align="right">*123</td>
+</tr>
+<tr>
+<td align="center">42</td>
+<td align="right">120</td>
+</tr>
+<tr>
+<td align="center">43</td>
+<td align="right">*118</td>
+</tr>
+<tr>
+<td align="center">44</td>
+<td align="right">*115</td>
+</tr>
+<tr>
+<td align="center">45</td>
+<td align="right">*113</td>
+</tr>
+<tr>
+<td align="center">46</td>
+<td align="right">*110</td>
+</tr>
+<tr>
+<td align="center">47</td>
+<td align="right">*108</td>
+</tr>
+<tr>
+<td align="center">48</td>
+<td align="right">105</td>
+</tr>
+<tr>
+<td align="center">49</td>
+<td align="right">*103</td>
+</tr>
+<tr>
+<td align="center">50</td>
+<td align="right">*100</td>
+</tr>
+<tr>
+<td align="center">57</td>
+<td align="right">96</td>
+</tr>
+<tr>
+<td align="center">60</td>
+<td align="right">94</td>
+</tr>
+</tbody>
+</table>
+<p>*表示预测值</p>
 </details>
 
 举例：假设任务等级是L7，则前五奖励分别是70、63、56、49、42。然后从第6到第425名，奖励从35线性递减到7，在这之间第n名奖励的计算方式是`35-(n-5)/(425-5)*(35-7)`，向上取整。从第425名往后奖励一致为7。
