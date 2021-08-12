@@ -8,6 +8,7 @@
 - 标一开二和两下左键相比：标一开二多的一个雷可能产生后续收益，两下左键第一下若直接破空则可以省一下。绝大多数时候标一开二都赚，少数例外需要通过大量实践总结。
 - 可以两侧双击的时候，还有一个选项是双击一下在两侧各开一格。要通过大量实践总结不同局部的最优策略。
   
+  ![](https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/ioe/9.gif)
   ![](https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/ioe/8.gif)
   ![](https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/ioe/5.gif)
   ![](https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/ioe/7.gif)
