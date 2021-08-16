@@ -119,7 +119,7 @@ Summer Break是World of Minesweeper的一个活动。从0:00(GMT)开始，全服
 </tr>
 <tr>
 <td align="center">24</td>
-<td align="right">*180</td>
+<td align="right">180</td>
 </tr>
 <tr>
 <td align="center">25</td>
