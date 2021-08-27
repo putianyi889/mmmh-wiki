@@ -24,4 +24,4 @@
   - 赛季奖励Emerald。
   - 每获得10000经验奖励1个Diamond。会员每天获得1个Diamond。
 
-只考虑游戏过程中的奖励，玩高难图/无猜时每1000金币相当于1个Onyx/Aquamarine。
+只考虑游戏过程中的奖励，玩高难图/无猜时每1000金币相当于1个Onyx/Aquamarine。玩低难度经典时每1000金币相当于最多3个Ruby/Sapphire。
