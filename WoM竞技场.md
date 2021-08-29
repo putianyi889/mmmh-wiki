@@ -1,21 +1,22 @@
 竞技场(Arena)是限时完成若干局指定游戏的挑战性玩法。竞技场分为十种类型：
 - Speed：限时完成若干局中难度游戏
-- Speed NG：限时完成若干局中难度无猜
-- No flags：限时NF完成若干局中低难度游戏
+- Speed NG：限时完成若干局中难度无猜。由于难度计算机制，同难度下无猜比经典判雷难度高，所以Speed NG体感难度要高于Speed。
+- No flags：限时NF完成若干局中低难度游戏。对于NFer来说No flags的体感难度要显著低于Speed。
 - Efficiency：限时完成ioe至少为1的若干局低难度游戏
-- High difficulty：限时完成一局超高难度游戏
-- Random difficulty：限时完成十局高难度游戏，有概率随机到较低难度
-- Hardcore：限时完成若干局中高难度游戏，炸一次罚1分钟
-- Hardcore NG：限时完成若干局中高难度无猜游戏，炸一次罚几分钟
-- Endurance：完成超多局低难度游戏
+- High difficulty：限时完成一局超高难度游戏。由于WoM的机扫水平较差，高难图的难度有虚标，在掌握技巧的前提下High difficulty的用时最短。但是如果不得要领，一旦完不成，颗粒无收。
+- Random difficulty：限时完成十局高难度游戏，有概率随机到较低难度。
+- Hardcore：限时完成若干局中高难度游戏，炸一次罚1分钟。尽管难度标定较低，因为图的尺寸小，实际上胜率比Speed低得多。高等级Hardcore需要有一定的猜雷技巧。
+- Hardcore NG：限时完成若干局中低难度无猜游戏，炸一次罚几分钟。因为图小了，Hardcore NG体感难度低于Speed NG。玩Hardcore NG要绝对严谨，卡住的时候要静心慢慢判。高等级Hardcore NG失误一两次就很容易超时。
+- Endurance：完成超多局低难度游戏。Endurance有限时，但是除非忘了打，不会超时的，甚至还有时间睡觉。Endurance的体感难度要高于Speed，低于Hardcore。
 - Nightmare：完成很多局高难度游戏，炸一次罚5分钟
+
+综合图的尺寸和胜率，经典模式竞技场的单张图体感难度排序是Random difficulty（低难度）< Efficiency < No flags < Speed < Endurance < Hardcore < Random difficulty（高难度） < Nightmare < High difficulty。但是由于局数不同，实际用时（不算罚时）排序是High difficulty < Efficiency < No flags < Speed < Hardcore NG < Hardcore < Speed NG << Endurance << Nightmare。其中High difficulty、Efficiency、No flags相对特化，每个人会有不同的最优选择，但是笔者作为NFer，在对猜雷和刷IOE略作研究的前提下已经可以达到High difficulty < Efficiency < No flags的用时顺序。
 
 # 注意事项
 - 相同难度的无猜和经典模式相比，无猜的判雷难度大不少，所以不要想着无猜就好欺负。
 - Endurance和Nightmare也有限时，但是限时有数天，除非在Nightmare中故意乱炸，一般不会出现超时问题，所以没有“限时”这一说法。这两个模式因为时间线非常长，扫的时候要匀速慢扫，避免爆发，如果累了也可以休息一下，该吃吃该睡睡。
 - 高等级Hardcore NG只要炸一两次就很容易超时了。
 - 如果只是为了通关，High difficulty、Hardcore、Hardcore NG、Nightmare建议用全标。Random difficulty有一定随机性，每局可以查看一下电脑估算的胜率，若胜率较低则建议用全标。全标的优点是失误的时候不容易炸：双歪了不会炸（一定要在设置里关掉左键双击），标歪了有时间反应取消标雷（不要用1.5）。全标的另一个优点是可以降低判雷难度，减少思考的失误率。
-- Hardcore NG 比 Speed NG 用时更短，因为Hardcore NG的图更小。不过Hardcore NG给人的精神压力更大，因为绝不能失误。
 - Efficiency和No flags的用时和竞技场等级关系很大。低等级竞技场雷密度低，NF破空概率很高，同时也由于op影响，IOE很难上1，所以No flags用时更短。高等级竞技场雷密度增加，更好刷IOE了，同时也更难开了，所以Efficiency用时更短。至于从哪个等级开始转变，取决于特定玩家是更擅长NF还是更擅长IOE。
 
 # 失误的影响
