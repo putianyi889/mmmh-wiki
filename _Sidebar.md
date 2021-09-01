@@ -17,6 +17,7 @@
 - 应用和社区
   - [重要的平台、应用、社区简介](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E9%87%8D%E8%A6%81%E7%9A%84%E5%B9%B3%E5%8F%B0%E3%80%81%E5%BA%94%E7%94%A8%E3%80%81%E7%A4%BE%E5%8C%BA%E7%AE%80%E4%BB%8B)
   - [World of Minesweeper](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/World-of-Minesweeper)
+    - [资源](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/WoM资源)
     - [竞技场](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/WoM竞技场)
     - 活动
       - [活动商店](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/WoM活动商店)
