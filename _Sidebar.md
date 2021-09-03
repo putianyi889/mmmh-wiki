@@ -1,4 +1,6 @@
 [Home](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/Home)
+<details>
+<summary>中文</summary>
 - 判雷
   - [什么是死猜？](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/什么是死猜？)
   - [猜雷](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/猜雷)
@@ -31,3 +33,4 @@
     - [Dion Tiu](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/Dion-Tiu自传)
     - [郭蔚嘉](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/郭蔚嘉自传)
     - [张先耀](https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/张先耀自传)
+</details>
