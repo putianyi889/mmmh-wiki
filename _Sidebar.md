@@ -8,7 +8,11 @@
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/猜雷">猜雷</a></li>
 </ul>
 </li>
-<li>优化<ul>
+<li>IOE<ul>
+<li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/刷IOE">刷IOE</a></li>
+</ul>
+</li>
+<li>竞速<ul>
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/扫法概述">扫法概述</a></li>
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%E5%8F%8A%E5%A5%97%E8%B7%AF">操作方法及套路</a></li>
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/NF转FL的等价替换思路">NF转FL的等价替换思路</a></li>
