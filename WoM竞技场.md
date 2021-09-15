@@ -7,7 +7,7 @@
 - Random difficulty：限时完成十局高难度游戏，有概率随机到较低难度。低难度的图白送，但是高难度图非常蛋疼，堪比不罚时的Nightmare。
 - Hardcore：限时完成若干局中高难度游戏，炸一次罚1分钟。尽管难度标定较低，因为图的尺寸小，实际上胜率比Speed低得多。高等级Hardcore需要有一定的猜雷技巧。
 - Hardcore NG：限时完成若干局中低难度无猜游戏，炸一次罚几分钟。因为图小了，Hardcore NG体感难度低于Speed NG。玩Hardcore NG要绝对严谨，卡住的时候要静心慢慢判。高等级Hardcore NG失误一两次就很容易超时。
-- Endurance：完成超多局低难度游戏。Endurance有限时，但是除非忘了打，不会超时的，甚至还有时间睡觉。Endurance的体感难度要高于Speed，低于Hardcore。
+- Endurance：完成超多局低难度游戏。Endurance有限时，但是除非忘了打，不会超时的，该吃吃该睡睡。Endurance的体感难度要高于Speed，低于Hardcore。
 - Nightmare：完成很多局高难度游戏，炸一次罚5分钟。Nightmare限时同样很长，但是乱玩还是会因为罚时而超时。不乱玩的话Nightmare时间还是很充裕的，可以随意吃饭睡觉，但是和Endurance比起来每天要花多得多的时间。Nightmare L1的用时（不算罚时）就相当于Speed L8了。
 
 综合图的尺寸和胜率，经典模式竞技场的单张图体感难度排序是Random difficulty（低难度）< Efficiency < No flags < Speed < Endurance < Hardcore < Random difficulty（高难度） < Nightmare < High difficulty。但是由于局数不同，实际用时（不算罚时）排序是High difficulty < Efficiency < No flags < Speed < Hardcore NG < Hardcore < Speed NG << Endurance << Nightmare。其中High difficulty、Efficiency、No flags相对特化，每个人会有不同的最优选择，但是笔者作为NFer，在对猜雷和刷IOE略作研究的前提下已经可以达到High difficulty < Efficiency < No flags的用时顺序。
