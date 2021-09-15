@@ -4,7 +4,7 @@
 - No flags：限时NF完成若干局中低难度游戏。对于NFer来说No flags的体感难度要显著低于Speed。
 - Efficiency：限时完成ioe至少为1的若干局低难度游戏。低等级Efficiency因为雷密度超低，空很多，需要较激进的破空。玩Efficiency和刷IOE的不同：玩Efficiency是要追求快速的100%低保而不是追求极限IOE，所以根据图的情况可以适当调整优化策略。在已经吃下大量油水后可以相对高速无脑收拾残局。在连续被Op和失误坑了以后，若当前图难度较高，可坚持扫完刷新难度，否则可直接重开。
 - High difficulty：限时完成一局超高难度游戏。由于WoM的机扫水平较差，高难图的难度有虚标，在掌握技巧的前提下High difficulty的用时最短。但是如果不得要领，一旦完不成，颗粒无收。
-- Random difficulty：限时完成十局高难度游戏，有概率随机到较低难度。低难度的图白送，但是高难度图非常蛋疼，堪比不罚时的Nightmare（比Nightmare胜率还是高点）。
+- Random difficulty：限时完成十局高难度游戏，有概率随机到较低难度。低难度的图白送，但是高难度图非常蛋疼，堪比不罚时的Nightmare。
 - Hardcore：限时完成若干局中高难度游戏，炸一次罚1分钟。尽管难度标定较低，因为图的尺寸小，实际上胜率比Speed低得多。高等级Hardcore需要有一定的猜雷技巧。
 - Hardcore NG：限时完成若干局中低难度无猜游戏，炸一次罚几分钟。因为图小了，Hardcore NG体感难度低于Speed NG。玩Hardcore NG要绝对严谨，卡住的时候要静心慢慢判。高等级Hardcore NG失误一两次就很容易超时。
 - Endurance：完成超多局低难度游戏。Endurance有限时，但是除非忘了打，不会超时的，甚至还有时间睡觉。Endurance的体感难度要高于Speed，低于Hardcore。
