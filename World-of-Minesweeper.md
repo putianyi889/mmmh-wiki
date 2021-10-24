@@ -97,8 +97,8 @@ WoM上初级开率纪录为[0:08:57](https://minesweeper.online/endurance/793340
 ## 成就
 WoM帮助里有[全成就列表](https://minesweeper.online/help/trophies)。成就对于技术水平几乎无门槛，区别仅在于完成时间。刷法见**等级**。
 
-# 等级
-等级是奖杯决定的，而奖杯是通过十种玩法下的成绩决定的。这里给出新号速刷奖杯的路线。
+# 军衔
+军衔是奖杯决定的，而奖杯是通过十种玩法下的成绩决定的。这里给出新号速刷奖杯的路线。
 
 首先可以完成一批简单的成就。以笔者的完成时间分类：
 - 1小时内可完成的单成就有Apprentice&Optimizer（50局NF初级）、Sage（初级十连胜，足够小心的话应该在刷Apprentice的过程中就能得到）、Adept（50局中级）、Marathoner（应该在完成Adept时同时完成）、Sniper（保胜率的前提下刷IOE很容易刷到）、Fanatic（足够小心即可，实际胜率可高于40%）、Guru（高级保胜率可以保到30%左右，只要开10局就行）、Soldier of Fortune（如果一小时内完不成这个那铁定打不过竞技场的High difficulty L8）、Gladiator（10个竞技点，完成前面成就以后等级够了，随便挑几个L2L3就行）。
