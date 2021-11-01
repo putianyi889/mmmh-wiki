@@ -35,7 +35,7 @@
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/WoM竞技场">竞技场</a></li>
 <li>活动<ul>
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/WoM活动商店">活动商店</a></li>
-<li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/Summer-Break">Summer Break</a></li>
+<li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/抢任务">抢任务</a></li>
 </ul>
 </li>
 </ul>
