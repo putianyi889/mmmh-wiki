@@ -36,6 +36,7 @@
 <li>活动<ul>
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/WoM活动商店">活动商店</a></li>
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/Summer Break">Summer Break</a></li>
+<li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/糕朋满座">糕朋满座</a></li>
 </ul>
 </li>
 </ul>
