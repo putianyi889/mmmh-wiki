@@ -1,14 +1,14 @@
 竞技场(Arena)是限时完成若干局指定游戏的挑战性玩法。竞技场分为十种类型：
-- Speed：限时完成若干局中难度游戏
-- Speed NG：限时完成若干局中难度无猜。由于难度计算机制，同难度下无猜比经典判雷难度高，所以Speed NG体感难度要高于Speed。
-- No flags：限时NF完成若干局中低难度游戏。对于NFer来说No flags的体感难度要显著低于Speed。
-- Efficiency：限时完成ioe至少为1的若干局低难度游戏。低等级Efficiency因为雷密度超低，空很多，需要较激进的破空。玩Efficiency和刷IOE的不同：玩Efficiency是要追求快速的100%低保而不是追求极限IOE，所以根据图的情况可以适当调整优化策略。在已经吃下大量油水后可以相对高速无脑收拾残局。在连续被Op和失误坑了以后，若当前图难度较高，可坚持扫完刷新难度，否则可直接重开。
-- High difficulty：限时完成一局超高难度游戏。由于WoM的机扫水平较差，高难图的难度有虚标，在掌握技巧的前提下High difficulty的用时最短。但是如果不得要领，一旦完不成，颗粒无收。
-- Random difficulty：限时完成十局高难度游戏，有概率随机到较低难度。低难度的图白送，但是高难度图非常蛋疼，堪比不罚时的Nightmare。
-- Hardcore：限时完成若干局中高难度游戏，炸一次罚1分钟。尽管难度标定较低，因为图的尺寸小，实际上胜率比Speed低得多。高等级Hardcore需要有一定的猜雷技巧。
-- Hardcore NG：限时完成若干局中低难度无猜游戏，炸一次罚几分钟。因为图小了，Hardcore NG体感难度低于Speed NG。玩Hardcore NG要绝对严谨，卡住的时候要静心慢慢判。高等级Hardcore NG失误一两次就很容易超时。
-- Endurance：完成超多局低难度游戏。Endurance有限时，但是除非忘了打，不会超时的，该吃吃该睡睡。Endurance的体感难度要高于Speed，低于Hardcore。
-- Nightmare：完成很多局高难度游戏，炸一次罚5分钟。Nightmare限时同样很长，但是乱玩还是会因为罚时而超时。不乱玩的话Nightmare时间还是很充裕的，可以随意吃饭睡觉，但是和Endurance比起来每天要花多得多的时间。Nightmare L1的用时（不算罚时）就相当于Speed L8了。
+- 速度(Speed, sp)：限时完成若干局中难度游戏
+- 速度无猜(Speed NG, spng)：限时完成若干局中难度无猜。由于难度计算机制，同难度下无猜比经典判雷难度高，所以Speed NG体感难度要高于Speed。
+- 盲扫(No flags, nf)：限时NF完成若干局中低难度游戏。对于NFer来说No flags的体感难度要显著低于Speed。
+- 效率(Efficiency, eff)：限时完成ioe至少为1的若干局低难度游戏。低等级Efficiency因为雷密度超低，空很多，需要较激进的破空。玩Efficiency和刷IOE的不同：玩Efficiency是要追求快速的100%低保而不是追求极限IOE，所以根据图的情况可以适当调整优化策略。在已经吃下大量油水后可以相对高速无脑收拾残局。在连续被Op和失误坑了以后，若当前图难度较高，可坚持扫完刷新难度，否则可直接重开。
+- 高难度(High difficulty, hd)：限时完成一局超高难度游戏。由于WoM的机扫水平较差，高难图的难度有虚标，在掌握技巧的前提下High difficulty的用时最短。但是如果不得要领，一旦完不成，颗粒无收。
+- 随机难度(Random difficulty, rd)：限时完成十局高难度游戏，有概率随机到较低难度。低难度的图白送，但是高难度图非常蛋疼，堪比不罚时的Nightmare。
+- 硬核(Hardcore, hc)：限时完成若干局中高难度游戏，炸一次罚1分钟。尽管难度标定较低，因为图的尺寸小，实际上胜率比Speed低得多。高等级Hardcore需要有一定的猜雷技巧。
+- 硬核无猜(Hardcore NG, hcng)：限时完成若干局中低难度无猜游戏，炸一次罚几分钟。因为图小了，Hardcore NG体感难度低于Speed NG。玩Hardcore NG要绝对严谨，卡住的时候要静心慢慢判。高等级Hardcore NG失误一两次就很容易超时。
+- 耐力(Endurance, en)：完成超多局低难度游戏。Endurance有限时，但是除非忘了打，不会超时的，该吃吃该睡睡。Endurance的体感难度要高于Speed，低于Hardcore。
+- 噩梦(Nightmare, nm)：完成很多局高难度游戏，炸一次罚5分钟。Nightmare限时同样很长，但是乱玩还是会因为罚时而超时。不乱玩的话Nightmare时间还是很充裕的，可以随意吃饭睡觉，但是和Endurance比起来每天要花多得多的时间。Nightmare L1的用时（不算罚时）就相当于Speed L8了。
 
 综合图的尺寸和胜率，经典模式竞技场的单张图体感难度排序是Random difficulty（低难度）< Efficiency < No flags < Speed < Endurance < Hardcore < Random difficulty（高难度） < Nightmare < High difficulty。但是由于局数不同，实际用时（不算罚时）排序是High difficulty < Efficiency < No flags < Speed < Hardcore NG < Hardcore < Speed NG << Endurance << Nightmare。其中High difficulty、Efficiency、No flags相对特化，每个人会有不同的最优选择，但是笔者作为NFer，在对猜雷和刷IOE略作研究的前提下已经可以达到High difficulty < Efficiency < No flags的用时顺序。
 
