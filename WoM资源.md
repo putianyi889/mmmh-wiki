@@ -41,7 +41,7 @@
 |<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/10.svg" width=20>|钻石|Diamond|
 
 # 竞技场门票(Arena ticket)
-竞技场门票有
+竞技场门票有三种获取途径：
 - 从市场购买。
 - 从活动商店购买门票包。
 - 游戏时可获得。详情见[帮助-竞技场](https://minesweeper.online/cn/help/arena)
