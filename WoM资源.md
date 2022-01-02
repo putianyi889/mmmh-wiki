@@ -25,3 +25,17 @@
   - 每获得10000经验奖励1个Diamond。会员每天获得1个Diamond。
 
 只考虑游戏过程中的奖励，玩高难图时每1000金币相当于1个Onyx。玩无猜时每1000金币相当于2个Aquamarine（假设有连胜）。玩低难度经典时每1000金币相当于最多3个Ruby/Sapphire。
+
+宝石的中英文对照：
+|贴图|中文|英文|
+|:-:|:-:|:-:|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/1.svg" width=20>|黄玉|Topaz|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/2.svg" width=20>|红宝石|Ruby|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/3.svg" width=20>|蓝宝石|Sapphire|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/4.svg" width=20>|紫水晶|Amethyst|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/5.svg" width=20>|缟玛瑙|Onyx|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/6.svg" width=20>|海蓝宝石|Aquamarine|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/7.svg" width=20>|祖母绿|Emerald|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/8.svg" width=20>|石榴石|Garnet|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/9.svg" width=20>|碧玉|Jade|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/10.svg" width=20>|钻石|Diamond|
