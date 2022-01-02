@@ -39,3 +39,9 @@
 |<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/8.svg" width=20>|石榴石|Garnet|
 |<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/9.svg" width=20>|碧玉|Jade|
 |<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/10.svg" width=20>|钻石|Diamond|
+
+# 竞技场门票(Arena ticket)
+竞技场门票有
+- 从市场购买。
+- 从活动商店购买门票包。
+- 游戏时可获得。详情见[帮助-竞技场](https://minesweeper.online/cn/help/arena)
