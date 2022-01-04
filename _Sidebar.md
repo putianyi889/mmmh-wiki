@@ -35,6 +35,7 @@
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/WoM竞技场">竞技场</a></li>
 <li>活动<ul>
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/WoM活动商店">活动商店</a></li>
+<li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/雪花季">雪花季</a></li>
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/节日狂欢">节日狂欢</a></li>
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/糕朋满座">糕朋满座</a></li>
 </ul>
