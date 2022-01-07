@@ -36,12 +36,20 @@ Then we have the main menu:
 - 教程 Guide.
 - 雷神 - sub60 player (see Titles). 殿 - palace. 雷神殿 The palace of sub60 players.
 - 我 - I. 的 is a very common function character. Basically A的B is equivalent to "B of A". 地盘 - a place under someone's control. 我的地盘 My profile.
-- 新 - new. 手 - hand. 新手 - newbee. 上 - go (also commonly means "up". see [you can you up](https://www.urbandictionary.com/define.php?term=you%20can%20you%20up)). 路 - road. 上路 - start journey. 新手上路 FAQ.
+- 新 - new. 手 - hand. 新手 - newbee. 上 - go (also commonly means "up". see [you can you up](https://www.urbandictionary.com/define.php?term=you%20can%20you%20up)). 路 - road. 上路 - start journey. 新手上路 Guidance for newbies.
 
-# Titles
+# Titles and conventions
 
-## Prefix for best exp time
+## Timing convention
+Saolei adds 1 second to all scores. When you see a video is 39.xx second, it's actually 38.xx. Sub60 on saolei means <=58.99. This one second is for historical reasons. It makes people harder to get milestones. On the bright side, it pushes people one second further. The embedded video player doesn't add the second. You don't have to add the second when uploading your videos as it's done automatically.
 
+## Gods and humans
+Sub60 players are considered as 雷神 where 神=god. The collection of 雷神 is called 神界。 Other players are considered humans. The collection of humans is called 人界 where 人=human。These conventions are sometimes used for puns.
+
+## Titles for gods
+Sub60 but not sub50 players are shown as 雷神 in green where 神=god. Female 雷神 are shown as 雷仙 in pink where 仙=fairy. Sub50 players are shown as 雷圣 where 圣=saint. The 1st on the site is shown as 雷帝 where 帝=emperor. There is no specific title for sub40 players since there was no sub40 player when the site was set.
+
+Off the site, the titles accepted by general community are a little different. There are 4 major titles: 神(god) for sub60, 圣(saint) for sub50, 帝(emperor) for sub40 and 外星人(alien) for sub30. The title Alien was set when no one believed it's possible. Each major title is further divided into two sub-titles: 大=big and 小=small. As a result: 小神 for sub60, 大神 for sub55, 小圣 for sub50, 大圣 for sub45, 小帝 for sub40, 大帝 for sub35. There is no sub25 player so Alien is still in one part.
 
 ## Suffix for gender
 GG for male. mm for female. They are historical Chinese internet slangs from 20 years ago.
