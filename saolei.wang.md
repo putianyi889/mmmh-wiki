@@ -2,8 +2,7 @@ http://www.saolei.wang is the base of Chinese minesweeper community.
 
 # Layout of the website
 
-## Index page
-We first go to the index page http://www.saolei.wang/Main/Index.asp .
+## Menu
 
 In the top left corner there is a large logo of the site: 
 
@@ -37,6 +36,35 @@ Then we have the main menu:
 - 雷神 - sub60 player (see Titles). 殿 - palace. 雷神殿 The palace of sub60 players.
 - 我 - I. 的 is a very common function character. Basically A的B is equivalent to "B of A". 地盘 - a place under someone's control. 我的地盘 My profile.
 - 新 - new. 手 - hand. 新手 - newbee. 上 - go (also commonly means "up". see [you can you up](https://www.urbandictionary.com/define.php?term=you%20can%20you%20up)). 路 - road. 上路 - start journey. 新手上路 Guidance for newbies.
+
+# General usage
+
+## Register
+Click 注册 in the top row.
+
+![](https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/saolei/register1.png)
+
+注册(register)必(must)读(read)
+
+**Ignore the first line.**
+- 必须(must)使用(use)真实(real)姓(surname)名(firstname)注册(register)。每(each)人(person)只(only)能(can)注册(register)一(one)个(no meaning. used to connect a number and a countable noun)用户(user)。<br>You must register with your real name. Each person can only have one user account.
+- 未(not)用(use)实(real)名(name)注册(register)者(suffix. equivalent to "er" in "player")所(prefix. changes a verb to adjective)上传(upload)录象(video)，一律(all)不(no)审核(verify)通过(pass)。<br>Videos uploaded by someone who doesn't use their real name for registration will not pass verification.
+- 如(if)发现(discover)注册(register)信息(information)不(not)实(real)，管理(manage)员(=者)有(have)权(right)封停(ban)或(or)删除(delete)该(the)用户(user)。<br>If we find that your information is fake, the moderators have the right to ban or delete the account.
+- 本(this)网(web)站(site)只(only)接受(accept) Minesweeper Arbiter 录制(record)的(same as 所, except that 的 is suffix) avf 格式(format)录象(video)。<br>This website only accepts videos of avf format which is recorded by Minesweeper Arbiter.
+- 录象(video)上(up)传(send)后(after)需(need)经(through)管理员(moderator)审核(verify)后(after)方(only)可(can)生(become)效(valid)。<br>After being uploaded, a video can become valid only after verification by a moderator.
+- 如(if)发现(discover)用户(user)伪(fake)造(make)录象(video)，将(will)立刻(immediately)删除(delete)该(the)用户(user)所有(all)信息(information)。<br>If a user is found making fake videos, all their information will be deleted immediately.
+
+|我(I)同意(agree)以上(above)条例(rule)|放弃(give up)注册(register)|
+
+![](https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/saolei/register2.png)
+
+设定(set up)录像(video)标识(identification)文字(text) Set up you player identification text
+- 什么(what)是(is)录像(video)标识(identification)文字(text)？<br> What is player identification text?
+- 录像(video)标识(identification)文字(text)将(will)出(out)现(show)在(at)您(you)每个(each)录像(video)的(of)下(down)方(direction)，是(is)录像(video)属于(belong to)您(you)的(of)唯(only)一(one)证据(evidence)。<br> The player identification text will show up at the bottom of your videos and is the only evidence of the video belonging to you.
+- 怎样(how)设置(setup)录像(video)标识(identification)文字(text)？<br> How to set up the video identification text?
+- 请(please)先(first)下(down)载(load) Minesweeper Arbiter 并(and)安装(install)。<br> Please download and install Minesweeper Arbiter first.
+- 安装(install)完(end)后(after)运行(run process)进入(enter)游戏(game)，如果(if)遇到(meet)问题(question)，请(please)到(to)论坛(forum)提问(ask)。<br> After installation, run the program to enter game. If you have any problem, please ask in the forum.
+- 进入(enter)游戏(game)后(after)按(press) F5 ， 可(can)进入(enter)设置(setup)界面(interface)，请(please)设置(setup)专(exclusive)属(belong)的录像标识文字，并选择国家。
 
 # Titles and conventions
 
