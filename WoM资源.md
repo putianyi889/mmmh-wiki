@@ -40,19 +40,19 @@
 
 非竞技场环境下，每1000难度6个缟玛瑙（高难），3个海蓝宝石（无猜），3个祖母绿（难度为1的图），0~3个红/蓝宝石（低难）。因此当前决定收入的核心能力是高难的猜雷水平。
 
-宝石的中英文对照：
-|贴图|中文|英文|玩法|
-|:-:|:-:|:-:|:-:|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/1.svg" width=20>|黄玉|Topaz|效率|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/2.svg" width=20>|红宝石|Ruby|FL竞速|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/3.svg" width=20>|蓝宝石|Sapphire|NF竞速|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/4.svg" width=20>|紫水晶|Amethyst|连胜|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/5.svg" width=20>|缟玛瑙|Onyx|高难|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/6.svg" width=20>|海蓝宝石|Aquamarine|无猜|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/7.svg" width=20>|祖母绿|Emerald|局数|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/8.svg" width=20>|石榴石|Garnet|任务|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/9.svg" width=20>|碧玉|Jade|竞技场|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/10.svg" width=20>|钻石|Diamond|杂项|
+宝石的其他信息：
+|贴图|中文|英文|玩法|装备后缀|
+|:-:|:-:|:-:|:-:|:-:|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/1.svg" width=20>|黄玉|Topaz|效率|-T|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/2.svg" width=20>|红宝石|Ruby|FL竞速|-R|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/3.svg" width=20>|蓝宝石|Sapphire|NF竞速|-S|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/4.svg" width=20>|紫水晶|Amethyst|连胜|-A|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/5.svg" width=20>|缟玛瑙|Onyx|高难|-O|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/6.svg" width=20>|海蓝宝石|Aquamarine|无猜|-Q|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/7.svg" width=20>|祖母绿|Emerald|局数|-E|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/8.svg" width=20>|石榴石|Garnet|任务|-G|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/9.svg" width=20>|碧玉|Jade|竞技场|-J|
+|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/10.svg" width=20>|钻石|Diamond|杂项|-D|
 
 # 竞技场门票(Arena ticket)
 竞技场门票有三种获取途径：
@@ -60,7 +60,7 @@
 - 从活动商店购买门票包。
 - 游戏时可获得。详情见[帮助-竞技场](https://minesweeper.online/cn/help/arena)
 
-# 装备
+# 装备(Equipment)
 装备通过其他资源合成/强化，装备又可以反过来提高其他资源的获取速度。
 
 装备有五种：引擎（Engine）、船体（Hull）、鱼雷（Torpedoes）、雷达（Radar）、声呐（Sonar）。每种装备可能提供五种加成：
@@ -79,3 +79,33 @@
 所有装备的前三项加成都是经验、金币、宝石。引擎和船体的第四项是任务奖励，鱼雷、雷达、声呐的第四项是竞技场门票。第五项加成是专属加成，引擎是每日任务，船体是赛季任务，鱼雷和雷达是活动，声呐是竞技场奖励。
 
 每个装备的每项属性最低是0%（不显示），最高是20%（未升级时）。装备的质量是该装备的五项属性之和。经验、金币、宝石、任务奖励、竞技场门票、竞技场奖励是连续属性，可以取到0%到20%的每个值。每日任务和赛季任务是离散属性，只要不为0%则作用都是+1。活动加成和每月的活动有关：轮盘活动和找票活动为连续属性（活动积分+x%），抢任务活动和送任务活动为离散属性（任务+1）。
+
+## 装备合成
+装备页面的底下是装备商店。每天的UTC0:00和12:00，装备商店会有两次自动刷新，同时免费的手动刷新次数会重置为5。免费的手动刷新次数用完后可以消耗金币继续进行刷新：前五次每次消耗5金币，接下来五次每次消耗10金币，接下来是15，20，……，到50金币则封顶，不会继续增加。装备商店的装备右边有个锁，锁定装备后不会被刷掉。
+
+装备商店一共有十个槽，五种装备各占两槽，其中有一槽会刷出偏低质量的，一槽会刷出偏高质量的。十件装备按质量从低到高排序。刷出的装备质量和当前身上的装备质量有关。消耗金币和宝石可以合成（购买）装备，消耗的资源量即为装备的价格（不同于市场价），在[帮助-装备](https://minesweeper.online/cn/help/equipment)中有完整的列表。根据合成消耗宝石的种类，装备会拥有不同的后缀：
+
+
+## 装备强化(Boost)
+已装上的装备右侧可以看到强化按钮。强化消耗一定量的功勋点（详见[帮助-装备](https://minesweeper.online/cn/help/equipment)），使该装备在接下来的30天中属性翻倍。
+
+## 装备升级(Upgrade)与分解(Disassemble)
+卸下的装备可以分解，分解获得碎片。装备碎片可以在市场交易。装上的装备可以升级。完美装备和非完美装备升级规则不同。
+
+非完美装备升级所需的碎片和分解生成的碎片在[帮助-装备](https://minesweeper.online/cn/help/equipment)中有详细的列表。完美装备分解要求已装备了全套的完美（即至少第六个完美才能分解），分解生成该装备后缀对应的宝石的完美碎片。
+
+### 非完美装备的升级
+非完美装备只能升级一项属性：
+- 如果该装备后缀是-D，则可以在不为0的前四属性中选择一个升级（一旦选定则不可改动）。每级提升1%的该属性，增加1%的装备品质（最高100%），满级10级。
+- 如果该装备是其他后缀，则升级只能加成该后缀对应的宝石，每级提升4%，增加1%的装备品质（最高100%），满级5级。
+
+升级后，装备单项属性可以超过20%，总质量也可以超过该稀有度对应的质量范围。
+
+### 完美装备的升级
+完美装备的所有属性（9个单宝石的加成和该装备自身的五个属性）都可以升级，满级L20。每次升级可以选择一个属性，一次升满（即相当于非完美装备该项满级）。只有非-D后缀的完美才能升级，-D后缀的完美只能用来做材料。
+- 完美第一次升级时可以额外获得其后缀对应的宝石+20%的属性。
+- 升级单宝石使等级+1，消耗该宝石对应的完美碎片。
+- 升级装备自身的前四个属性使等级+2，消耗一个完美钻石碎片和一个其他完美宝石碎片（不同装备消耗的种类不同）。
+- 升级装备的第五项属性使等级+3，消耗一个完美钻石碎片和两个其他完美宝石碎片。
+
+全套完美升满后的效果是经验、金币+150%，宝石+250%，任务奖励+60%，竞技场门票+90%，每日任务+2，赛季任务+2，活动积分+60%（或活动任务+4），竞技场奖励+30%。
