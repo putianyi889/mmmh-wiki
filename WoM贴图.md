@@ -16,4 +16,16 @@
 |英文名|Engine|Hull|Torpedoes|Radar|Sonar|
 |中文名|引擎|船体|鱼雷|雷达|声呐|
 
+## 装备强化
+|贴图|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/plus1.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/plus2.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/plus3.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/plus4.svg" width=50>|
+|:-:|:-:|:-:|:-:|:-:|
+|ID|plus1|plus2|plus3|plus4|
+
+## 其他
+|贴图|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/hp.svg" width=50>|
+|:-:|:-:|
+|ID|hp|
+|英文名|Honor point|
+|中文名|功勋点|
+
 # 活动资源
