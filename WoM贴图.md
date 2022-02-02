@@ -24,7 +24,7 @@
 |中文名|引擎|船体|鱼雷|雷达|声呐|
 
 ## 装备强化
-|贴图|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/plus1.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/plus2.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/plus3.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/plus4.svg" width=50>|
+|贴图|<img src="https://minesweeper.online/img/item/plus1.svg" width=50>|<img src="https://minesweeper.online/img/item/plus2.svg" width=50>|<img src="https://minesweeper.online/img/item/plus3.svg" width=50>|<img src="https://minesweeper.online/img/item/plus4.svg" width=50>|
 |:-:|:-:|:-:|:-:|:-:|
 |ID|plus1|plus2|plus3|plus4|
 
