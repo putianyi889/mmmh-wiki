@@ -14,6 +14,7 @@
 |ID(gems)|1|2|3|4|5|
 |英文名|Topaz|Ruby|Sapphire|Amethyst|Onyx|
 |中文名|黄玉|红宝石|蓝宝石|紫水晶|缟玛瑙|
+|||||||
 |**贴图**|<img src="https://minesweeper.online/img/gems/6.svg" width=50>|<img src="https://minesweeper.online/img/gems/7.svg" width=50>|<img src="https://minesweeper.online/img/gems/8.svg" width=50>|<img src="https://minesweeper.online/img/gems/9.svg" width=50>|<img src="https://minesweeper.online/img/gems/10.svg" width=50>|
 |ID(gems)|6|7|8|9|10|
 |英文名|Aquamarine|Emerald|Garnet|Jade|Diamond|
