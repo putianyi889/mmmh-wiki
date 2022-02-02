@@ -1,9 +1,9 @@
 # 其他
-|贴图|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/hp.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/arena.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/skull.svg" width=50>|
-|:-:|:-:|:-:|:-:|
-|ID|hp|arena|skull|
-|英文名|Honor point|Arena point|Difficulty|
-|中文名|功勋点|竞技场积分|难度|
+|贴图|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/hp.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/arena.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/skull.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/reward.svg" width=50>|
+|:-:|:-:|:-:|:-:|:-:|
+|ID|hp|arena|skull|reward
+|英文名|Honor point|Arena point|Difficulty|Achievement|
+|中文名|功勋点|竞技场积分|难度|成就|
 
 # 常规资源
 
