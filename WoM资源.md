@@ -149,5 +149,7 @@
 # 参考文献
 
 [1] [Mario Pro Gamer](https://minesweeper.online/cn/player/5587951), [Equipment Code Guide](https://docs.google.com/document/d/1-phCPF4sKlmXRslrMpUmFanhbX2A8LuYKOEkGk5aoKw)
+
 [2] [World of Minesweeper](https://minesweeper.online/cn/), [Win streak coefficient](https://docs.google.com/spreadsheets/d/1ssaDpxsiwjT6t08cLdF8JJf75kZbTQUvkGjOWAqA48g)
+
 [3] [World of Minesweeper](https://minesweeper.online/cn/), [Efficiency coefficient](https://docs.google.com/spreadsheets/d/15fWkrYXFbO74VdSlHSq51VdT1DB4EaXX-DXVWesIUmI)
