@@ -17,11 +17,11 @@
 
 ## 装备
 
-|贴图|<img src="https://minesweeper.online/img/item/0.svg" width=50>|<img src="https://minesweeper.online/img/item/1.svg" width=50>|<img src="https://minesweeper.online/img/item/2.svg" width=50>|<img src="https://minesweeper.online/img/item/3.svg" width=50>|<img src="https://minesweeper.online/img/item/4.svg" width=50>|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|ID(item)|0|1|2|3|4|
-|英文名|Engine|Hull|Torpedoes|Radar|Sonar|
-|中文名|引擎|船体|鱼雷|雷达|声呐|
+|贴图|<img src="https://minesweeper.online/img/item/0.svg" width=50>|<img src="https://minesweeper.online/img/item/1.svg" width=50>|<img src="https://minesweeper.online/img/item/2.svg" width=50>|<img src="https://minesweeper.online/img/item/3.svg" width=50>|<img src="https://minesweeper.online/img/item/4.svg" width=50>|<img src="https://minesweeper.online/img/item/parts0.svg" width=50>|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|ID(item)|0|1|2|3|4|parts0|
+|英文名|Engine|Hull|Torpedoes|Radar|Sonar|Equipment part|
+|中文名|引擎|船体|鱼雷|雷达|声呐|装备碎片|
 
 ## 装备强化
 |贴图|<img src="https://minesweeper.online/img/item/plus1.svg" width=50>|<img src="https://minesweeper.online/img/item/plus2.svg" width=50>|<img src="https://minesweeper.online/img/item/plus3.svg" width=50>|<img src="https://minesweeper.online/img/item/plus4.svg" width=50>|
