@@ -1,6 +1,6 @@
 # 其他
 |贴图|<img src="https://minesweeper.online/img/other/hp.svg" width=50>|<img src="https://minesweeper.online/img/arena.svg" width=50>|<img src="https://minesweeper.online/img/skull.svg" width=50>|<img src="https://minesweeper.online/img/reward.svg" width=50>|<img src="https://minesweeper.online/img/eq.svg" width=50>|
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 |ID|other/hp|arena|skull|reward|eq|
 |英文名|Honor point|Arena point|Difficulty|Achievement|Equipment|
 |中文名|功勋点|竞技场积分|难度|成就|装备|
