@@ -43,16 +43,16 @@
 宝石的其他信息：
 |贴图|中文|英文|玩法|装备后缀|
 |:-:|:-:|:-:|:-:|:-:|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/1.svg" width=20>|黄玉|Topaz|效率|-T|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/2.svg" width=20>|红宝石|Ruby|FL竞速|-R|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/3.svg" width=20>|蓝宝石|Sapphire|NF竞速|-S|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/4.svg" width=20>|紫水晶|Amethyst|连胜|-A|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/5.svg" width=20>|缟玛瑙|Onyx|高难|-O|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/6.svg" width=20>|海蓝宝石|Aquamarine|无猜|-Q|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/7.svg" width=20>|祖母绿|Emerald|局数|-E|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/8.svg" width=20>|石榴石|Garnet|任务|-G|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/9.svg" width=20>|碧玉|Jade|竞技场|-J|
-|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/10.svg" width=20>|钻石|Diamond|杂项|-D|
+|<img src="https://minesweeper.online/img/gems/1.svg" width=20>|黄玉|Topaz|效率|-T|
+|<img src="https://minesweeper.online/img/gems/2.svg" width=20>|红宝石|Ruby|FL竞速|-R|
+|<img src="https://minesweeper.online/img/gems/3.svg" width=20>|蓝宝石|Sapphire|NF竞速|-S|
+|<img src="https://minesweeper.online/img/gems/4.svg" width=20>|紫水晶|Amethyst|连胜|-A|
+|<img src="https://minesweeper.online/img/gems/5.svg" width=20>|缟玛瑙|Onyx|高难|-O|
+|<img src="https://minesweeper.online/img/gems/6.svg" width=20>|海蓝宝石|Aquamarine|无猜|-Q|
+|<img src="https://minesweeper.online/img/gems/7.svg" width=20>|祖母绿|Emerald|局数|-E|
+|<img src="https://minesweeper.online/img/gems/8.svg" width=20>|石榴石|Garnet|任务|-G|
+|<img src="https://minesweeper.online/img/gems/9.svg" width=20>|碧玉|Jade|竞技场|-J|
+|<img src="https://minesweeper.online/img/gems/10.svg" width=20>|钻石|Diamond|杂项|-D|
 
 # 竞技场门票(Arena ticket)
 竞技场门票有三种获取途径：
