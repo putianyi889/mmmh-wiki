@@ -1,3 +1,10 @@
+# 其他
+|贴图|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/hp.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/arena.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/skull.svg" width=50>|
+|:-:|:-:|:-:|:-:|
+|ID|hp|arena|skull|
+|英文名|Honor point|Arena point|Difficulty|
+|中文名|功勋点|竞技场积分|难度|
+
 # 常规资源
 
 ## 宝石
@@ -21,11 +28,6 @@
 |:-:|:-:|:-:|:-:|:-:|
 |ID|plus1|plus2|plus3|plus4|
 
-## 其他
-|贴图|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/hp.svg" width=50>|
-|:-:|:-:|
-|ID|hp|
-|英文名|Honor point|
-|中文名|功勋点|
+
 
 # 活动资源
