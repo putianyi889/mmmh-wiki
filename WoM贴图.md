@@ -8,4 +8,12 @@
 |英文名|Topaz|Ruby|Sapphire|Amethyst|Onyx|Aquamarine|Emerald|Garnet|Jade|Diamond|
 |中文名|黄玉|红宝石|蓝宝石|紫水晶|缟玛瑙|海蓝宝石|祖母绿|石榴石|碧玉|钻石|
 
+## 装备
+
+|贴图|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/0.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/1.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/2.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/3.svg" width=50>|<img src="https://github.com/putianyi889/Minesweeper-makes-me-happy/blob/main/wiki/images/wom/equip/4.svg" width=50>|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|ID|0|1|2|3|4|
+|英文名|Engine|Hull|Torpedoes|Radar|Sonar|
+|中文名|引擎|船体|鱼雷|雷达|声呐|
+
 # 活动资源
