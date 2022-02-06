@@ -36,8 +36,23 @@
 # 活动资源
 
 # 成就
-|贴图|<img src="https://minesweeper.online/img/rewards/1.svg" width=50>|<img src="https://minesweeper.online/img/rewards/2.png" width=50>|<img src="https://minesweeper.online/img/rewards/3.png" width=50>|<img src="https://minesweeper.online/img/rewards/4.png" width=50>|<img src="https://minesweeper.online/img/rewards/5.png" width=50>|<img src="https://minesweeper.online/img/rewards/6.png" width=50>|<img src="https://minesweeper.online/img/rewards/7.png" width=50>|<img src="https://minesweeper.online/img/rewards/8.svg" width=50>|<img src="https://minesweeper.online/img/rewards/9.png" width=50>|<img src="https://minesweeper.online/img/rewards/10.png" width=50>|<img src="https://minesweeper.online/img/rewards/11.svg" width=50>|<img src="https://minesweeper.online/img/rewards/12.svg" width=50>|<img src="https://minesweeper.online/img/rewards/13.png" width=50>|<img src="https://minesweeper.online/img/rewards/14.svg" width=50>|<img src="https://minesweeper.online/img/rewards/15.svg" width=50>|<img src="https://minesweeper.online/img/rewards/16.svg" width=50>|<img src="https://minesweeper.online/img/rewards/17.png" width=50>|<img src="https://minesweeper.online/img/rewards/18.svg" width=50>|<img src="https://minesweeper.online/img/rewards/19.svg" width=50>|<img src="https://minesweeper.online/img/rewards/20.svg" width=50>|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|ID(rewards)|
+|贴图|<img src="https://minesweeper.online/img/rewards/1.svg" width=50>|<img src="https://minesweeper.online/img/rewards/2.png" width=50>|<img src="https://minesweeper.online/img/rewards/3.png" width=50>|<img src="https://minesweeper.online/img/rewards/4.png" width=50>|<img src="https://minesweeper.online/img/rewards/5.png" width=50>|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|ID(rewards)|1|2|3|4|5|
 |英文名|
-|中文名|适者生存|胸有成竹|初来乍到|轻车熟路|游刃有余|万元户|极端分子|千锤百炼||废寝忘食||钉子户|命运战士|VIP|一代宗师|贤者模式|大聪明|马拉松|狙击手|角斗士|
+|中文名|适者生存|胸有成竹|初来乍到|轻车熟路|游刃有余|
+|||||||
+|**贴图**|<img src="https://minesweeper.online/img/rewards/6.png" width=50>|<img src="https://minesweeper.online/img/rewards/7.png" width=50>|<img src="https://minesweeper.online/img/rewards/8.svg" width=50>|<img src="https://minesweeper.online/img/rewards/9.png" width=50>|<img src="https://minesweeper.online/img/rewards/10.png" width=50>|
+|ID(rewards)|6|7|8|9|10|
+|英文名|
+|中文名|万元户|极端分子|千锤百炼||废寝忘食|
+|||||||
+|**贴图**|<img src="https://minesweeper.online/img/rewards/11.svg" width=50>|<img src="https://minesweeper.online/img/rewards/12.svg" width=50>|<img src="https://minesweeper.online/img/rewards/13.png" width=50>|<img src="https://minesweeper.online/img/rewards/14.svg" width=50>|<img src="https://minesweeper.online/img/rewards/15.svg" width=50>|
+|ID(rewards)|11|12|13|14|15|
+|英文名|
+|中文名||钉子户|命运战士|VIP|一代宗师|
+|||||||
+|**贴图**|<img src="https://minesweeper.online/img/rewards/16.svg" width=50>|<img src="https://minesweeper.online/img/rewards/17.png" width=50>|<img src="https://minesweeper.online/img/rewards/18.svg" width=50>|<img src="https://minesweeper.online/img/rewards/19.svg" width=50>|<img src="https://minesweeper.online/img/rewards/20.svg" width=50>|
+|ID(rewards)|16|17|18|19|20|
+|英文名|
+|中文名|贤者模式|大聪明|马拉松|狙击手|角斗士|
