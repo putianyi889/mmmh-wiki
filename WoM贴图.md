@@ -26,12 +26,17 @@
 ## 门票
 |贴图|<img src="https://minesweeper.online/img/events/ticket-pack/ticket-pack-100.svg" width=50>|<img src="https://minesweeper.online/img/events/ticket-pack/ticket-pack-200.svg" width=50>|<img src="https://minesweeper.online/img/events/ticket-pack/ticket-pack-300.svg" width=50>|
 |:-:|:-:|:-:|:-:|
-|ID(events/ticket-pack/)|ticket-pack-100|ticket-pack-200|ticket-pack-300|
+|ID(events/ticket-pack/ticket-pack-)|100|200|300|
 
 ## 活动资源
 |贴图|<img src="https://minesweeper.online/img/candies/heart/370.svg" width=50>|<img src="https://minesweeper.online/img/candies/heart/536.svg" width=50>|
 |:-:|:-:|:-:|
-|ID(candies/)|heart/370|heart/536|
+|ID(candies/heart/)|370|536|
+
+# 活动
+|贴图|<img src="https://minesweeper.online/img/event/event-24265.svg" width=50>|
+|:-:|:-:|
+|ID(event/event-)|24265|
 
 # 成就
 |贴图|<img src="https://minesweeper.online/img/rewards/1.svg" width=50>|<img src="https://minesweeper.online/img/rewards/2.png" width=50>|<img src="https://minesweeper.online/img/rewards/3.png" width=50>|<img src="https://minesweeper.online/img/rewards/4.png" width=50>|<img src="https://minesweeper.online/img/rewards/5.png" width=50>|
