@@ -27,7 +27,7 @@
 
 # 活动资源
 |贴图|<img src="https://minesweeper.online/img/candies/heart/370.svg" width=50>|<img src="https://minesweeper.online/img/candies/heart/536.svg" width=50>|
-|:-:|:-:|
+|:-:|:-:|:-:|
 |ID(candies)|heart/370|heart/536|
 
 # 成就
