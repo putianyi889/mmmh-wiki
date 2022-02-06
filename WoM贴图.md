@@ -34,14 +34,21 @@
 |ID(candies/heart/)|370|536|
 
 # 活动
+
+## 活动LOGO
 |贴图|<img src="https://minesweeper.online/img/event/event-24261.svg" width=50>|<img src="https://minesweeper.online/img/event/event-24262.svg" width=50>|<img src="https://minesweeper.online/img/event/event-24263.svg" width=50>|<img src="https://minesweeper.online/img/event/event-24264.svg" width=50>|<img src="https://minesweeper.online/img/event/event-24265.svg" width=50>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |ID(event/event-)|24261|24262|24263|24264|24265|
 
-# 活动商店
+## 活动商店
 |贴图|<img src="https://minesweeper.online/img/event-shop/event-shop-24261.svg" width=50>|<img src="https://minesweeper.online/img/event-shop/event-shop-24262.svg" width=50>|<img src="https://minesweeper.online/img/event-shop/event-shop-24263.svg" width=50>|<img src="https://minesweeper.online/img/event-shop/event-shop-24264.svg" width=50>|<img src="https://minesweeper.online/img/event-shop/event-shop-24265.svg" width=50>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |ID(event/event-shop-)|24261|24262|24263|24264|24265|
+
+## 活动其他
+|贴图|<img src="https://minesweeper.online/img/event-other/quests-received.svg" width=50>|<img src="https://minesweeper.online/img/event-other/quests-sent.svg" width=50>|
+|:-:|:-:|:-:|
+|ID(event-other/)|quests-received|quests-sent|
 
 # 成就
 |贴图|<img src="https://minesweeper.online/img/rewards/1.svg" width=50>|<img src="https://minesweeper.online/img/rewards/2.png" width=50>|<img src="https://minesweeper.online/img/rewards/3.png" width=50>|<img src="https://minesweeper.online/img/rewards/4.png" width=50>|<img src="https://minesweeper.online/img/rewards/5.png" width=50>|
