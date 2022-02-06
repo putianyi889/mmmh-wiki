@@ -17,7 +17,7 @@
 ## 装备
 
 |贴图|<img src="https://minesweeper.online/img/item/0.svg" width=50>|<img src="https://minesweeper.online/img/item/1.svg" width=50>|<img src="https://minesweeper.online/img/item/2.svg" width=50>|<img src="https://minesweeper.online/img/item/3.svg" width=50>|<img src="https://minesweeper.online/img/item/4.svg" width=50>|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 |ID(item)|0|1|2|3|4|
 |||||||
 |**贴图**|<img src="https://minesweeper.online/img/item/parts0.svg" width=50>|<img src="https://minesweeper.online/img/item/plus1.svg" width=50>|<img src="https://minesweeper.online/img/item/plus2.svg" width=50>|<img src="https://minesweeper.online/img/item/plus3.svg" width=50>|<img src="https://minesweeper.online/img/item/plus4.svg" width=50>|
