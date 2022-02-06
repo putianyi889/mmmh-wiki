@@ -26,9 +26,9 @@
 |ID(item)|plus1|plus2|plus3|plus4|
 
 # 活动资源
-|贴图|<img src="https://minesweeper.online/img/candies/heart/536.svg" width=50>|
+|贴图|<img src="https://minesweeper.online/img/candies/heart/370.svg" width=50>|<img src="https://minesweeper.online/img/candies/heart/536.svg" width=50>|
 |:-:|:-:|
-|ID(candies)|heart/536|
+|ID(candies)|heart/370|heart/536|
 
 # 成就
 |贴图|<img src="https://minesweeper.online/img/rewards/1.svg" width=50>|<img src="https://minesweeper.online/img/rewards/2.png" width=50>|<img src="https://minesweeper.online/img/rewards/3.png" width=50>|<img src="https://minesweeper.online/img/rewards/4.png" width=50>|<img src="https://minesweeper.online/img/rewards/5.png" width=50>|
