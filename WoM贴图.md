@@ -46,9 +46,9 @@
 |ID(event/event-shop-)|24261|24262|24263|24264|24265|
 
 ## 活动其他
-|贴图|<img src="https://minesweeper.online/img/event-other/quests-received.svg" width=50>|<img src="https://minesweeper.online/img/event-other/quests-sent.svg" width=50>|
-|:-:|:-:|:-:|
-|ID(event-other/)|quests-received|quests-sent|
+|贴图|<img src="https://minesweeper.online/img/event-other/quests-to-send.svg" width=50>|<img src="https://minesweeper.online/img/event-other/quests-received.svg" width=50>|<img src="https://minesweeper.online/img/event-other/quests-sent.svg" width=50>|
+|:-:|:-:|:-:|:-:|
+|ID(event-other/)|quests-to-send|quests-received|quests-sent|
 
 # 成就
 |贴图|<img src="https://minesweeper.online/img/rewards/1.svg" width=50>|<img src="https://minesweeper.online/img/rewards/2.png" width=50>|<img src="https://minesweeper.online/img/rewards/3.png" width=50>|<img src="https://minesweeper.online/img/rewards/4.png" width=50>|<img src="https://minesweeper.online/img/rewards/5.png" width=50>|
