@@ -2,6 +2,9 @@
 |贴图|<img src="https://minesweeper.online/img/other/hp.svg" width=50>|<img src="https://minesweeper.online/img/arena.svg" width=50>|<img src="https://minesweeper.online/img/skull.svg" width=50>|<img src="https://minesweeper.online/img/reward.svg" width=50>|<img src="https://minesweeper.online/img/eq.svg" width=50>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |ID|other/hp|arena|skull|reward|eq|
+|||||||
+|**贴图**|<img src="https://minesweeper.online/img/item/coin.svg" width=50>|
+|ID|item/coin|
 
 # 常规资源
 
