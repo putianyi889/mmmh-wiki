@@ -3,8 +3,8 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |ID|other/hp|arena|skull|reward|eq|
 |||||||
-|**贴图**|<img src="https://minesweeper.online/img/item/coin.svg" width=50>|
-|ID|item/coin|
+|**贴图**|<img src="https://minesweeper.online/img/item/coin.svg" width=50>|<img src="https://minesweeper.online/img/gems/0.svg" width=50>|
+|ID|item/coin|gems/0|
 
 # 常规资源
 
