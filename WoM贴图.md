@@ -23,8 +23,17 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |ID(item/)|0|1|2|3|4|
 |||||||
-|**贴图**|<img src="https://minesweeper.online/img/item/parts0.svg" width=50>|<img src="https://minesweeper.online/img/item/plus1.svg" width=50>|<img src="https://minesweeper.online/img/item/plus2.svg" width=50>|<img src="https://minesweeper.online/img/item/plus3.svg" width=50>|<img src="https://minesweeper.online/img/item/plus4.svg" width=50>|
-|ID(item/)|parts0|plus1|plus2|plus3|plus4|
+|**贴图**|<img src="https://minesweeper.online/img/item/plus1.svg" width=50>|<img src="https://minesweeper.online/img/item/plus2.svg" width=50>|<img src="https://minesweeper.online/img/item/plus3.svg" width=50>|<img src="https://minesweeper.online/img/item/plus4.svg" width=50>|
+|ID(item/plus)|1|2|3|4|
+|||||||
+|**贴图**|<img src="https://minesweeper.online/img/item/parts0.svg" width=50>|<img src="https://minesweeper.online/img/item/parts17.svg" width=50>|<img src="https://minesweeper.online/img/item/parts18.svg" width=50>|<img src="https://minesweeper.online/img/item/parts19.svg" width=50>|
+|ID(item/parts)|0|17|18|19|
+|||||||
+|**贴图**|<img src="https://minesweeper.online/img/item/parts20.svg" width=50>|<img src="https://minesweeper.online/img/item/parts21.svg" width=50>|<img src="https://minesweeper.online/img/item/parts22.svg" width=50>|<img src="https://minesweeper.online/img/item/parts23.svg" width=50>|<img src="https://minesweeper.online/img/item/parts24.svg" width=50>|
+|ID(item/parts)|20|21|22|23|24|
+|||||||
+|**贴图**|<img src="https://minesweeper.online/img/item/parts25.svg" width=50>|<img src="https://minesweeper.online/img/item/parts26.svg" width=50>|<img src="https://minesweeper.online/img/item/parts27.svg" width=50>|<img src="https://minesweeper.online/img/item/parts28.svg" width=50>|<img src="https://minesweeper.online/img/item/parts29.svg" width=50>|
+|ID(item/parts)|25|26|27|28|29|
 
 ## 门票
 |贴图|<img src="https://minesweeper.online/img/events/ticket-pack/ticket-pack-100.svg" width=50>|<img src="https://minesweeper.online/img/events/ticket-pack/ticket-pack-200.svg" width=50>|<img src="https://minesweeper.online/img/events/ticket-pack/ticket-pack-300.svg" width=50>|
