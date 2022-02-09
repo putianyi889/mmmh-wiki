@@ -57,6 +57,11 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |ID(event/event-shop-)|24261|24262|24263|24264|24265|
 
+## 锦标赛
+|贴图|<img src="https://minesweeper.online/img/champ/champ-24263.svg" width=50>|<img src="https://minesweeper.online/img/champ/champ-24264.svg" width=50>|<img src="https://minesweeper.online/img/champ/champ-24265.svg" width=50>|
+|:-:|:-:|:-:|:-:|
+|ID(champ/champ-)|24263|24264|24265|
+
 ## 活动其他
 |贴图|<img src="https://minesweeper.online/img/event-other/quests-to-send.svg" width=50>|<img src="https://minesweeper.online/img/event-other/quests-received.svg" width=50>|<img src="https://minesweeper.online/img/event-other/quests-sent.svg" width=50>|
 |:-:|:-:|:-:|:-:|
