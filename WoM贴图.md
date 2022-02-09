@@ -47,7 +47,7 @@
 
 # 活动
 
-## 活动LOGO
+## LOGO
 |贴图|<img src="https://minesweeper.online/img/event/event-24261.svg" width=50>|<img src="https://minesweeper.online/img/event/event-24262.svg" width=50>|<img src="https://minesweeper.online/img/event/event-24263.svg" width=50>|<img src="https://minesweeper.online/img/event/event-24264.svg" width=50>|<img src="https://minesweeper.online/img/event/event-24265.svg" width=50>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |ID(event/event-)|24261|24262|24263|24264|24265|
