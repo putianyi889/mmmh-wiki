@@ -37,7 +37,7 @@
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/WoM活动商店">活动商店</a></li>
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/雪花季">雪花季</a></li>
 <li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/节日狂欢">节日狂欢</a></li>
-<li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/糕朋满座">糕朋满座</a></li>
+<li><a href="https://github.com/putianyi889/Minesweeper-makes-me-happy/wiki/命运之轮">命运之轮</a></li>
 </ul>
 </li>
 </ul>
